@@ -1,9 +1,11 @@
 #!name = BoxJs
 #!desc = JavaScript数据管理器
 #!openUrl = http://boxjs.com
-#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/BoxJS.png
-#!date = 2024-04-23 08:28:27
-#!category= 复制：chavyleung,原链接：https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BoxJs.plugin
+#!homepage=https://chavyleung.gitbook.io/boxjs/
+#!icon=https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png
+#!category= 复制：https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin
+#!date = 2024-06-18 00:28:27
+
 [Rule]
 DOMAIN-SUFFIX, jsdelivr.net, PROXY
 
