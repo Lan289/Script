@@ -2,7 +2,7 @@
 #!desc = 拦截常见的HTTPDNS服务 
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/HTTPDNS.png
 #!category: 复制：可莉🅥 VirgilClyne ,原链接：https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Block_HTTPDNS.plugin
-#!date = 2024-05-16 20:16:26
+#!date = 2024-07-10 20:16:26
 
 [Rule]
 # 阿里巴巴
