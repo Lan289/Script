@@ -166,7 +166,6 @@ IP-CIDR6, 2402:4e00:1900:1700:0:9554:1ad9:c3a/128, REJECT, no-resolve
 IP-CIDR6, 2408:8711:10:10::20/128, REJECT, no-resolve
 IP-CIDR6, 2409:8702:4860:10::4d/128, REJECT, no-resolve
 
-
 # 网易
 DOMAIN, httpdns.music.163.com, REJECT
 DOMAIN, httpdns.n.netease.com, REJECT
