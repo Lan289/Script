@@ -3,7 +3,7 @@
 #!homepage = https://gitlab.com/lodepuly/vpn_tool/-/blob/master/README.md
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Website_icon/120px/TencentAd.png
 #!category: 复制：可莉 ,原链接：https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BlockAdvertisers.plugin
-#!date = 2024-08-03 10:43:19
+#!date = 2024-09-16 10:43:19
 
 
 [Rule]
@@ -59,6 +59,19 @@ DOMAIN-KEYWORD, asiad.byteactivity, REJECT
 # 讯飞AI营销
 DOMAIN-KEYWORD, iflyad.bj.openstorage.cn, REJECT
 DOMAIN-KEYWORD, bjimp.voiceads.cn, REJECT
+
+# 美数科技
+DOMAIN, sdk.1rtb.net, REJECT
+DOMAIN, cdn.1rtb.com, REJECT
+
+# 嗨量科技 - 海贝巨量
+DOMAIN, adx.halomobi.com, REJECT
+
+# 钧云 - ADHUB
+DOMAIN, api.htp.hubcloud.com.cn, REJECT
+DOMAIN, res1.hubcloud.com.cn, REJECT
+DOMAIN, sdktmp.hubcloud.com.cn, REJECT
+DOMAIN, v.adx.hubcloud.com.cn, REJECT
 
 # InMobi - 邑盟信息技术（上海）有限公司
 DOMAIN, config.inmobi.cn, REJECT
@@ -145,7 +158,7 @@ DOMAIN, mi.gdt.qq.com, REJECT
 DOMAIN, otheve.beacon.qq.com, REJECT
 DOMAIN, pgdt.gtimg.cn, REJECT
 DOMAIN, pgdt.ugdtimg.com, REJECT
-DOMAIN, qzonestyle.gtimg.cn, REJECT
+# DOMAIN, qzonestyle.gtimg.cn, REJECT // 误杀
 DOMAIN, qzs.gdtimg.com, REJECT
 DOMAIN, qzs.qq.com, REJECT
 DOMAIN, rmonitor.qq.com, REJECT
@@ -172,9 +185,13 @@ IP-CIDR, 47.110.187.87/32, REJECT, no-resolve
 DOMAIN-SUFFIX, openinstall.io, REJECT
 
 # 个推
-DOMAIN, sdk-open-phone.getui.com, REJECT
+DOMAIN, b-gtc.getui.net, REJECT
+DOMAIN, c-gtc.getui.net, REJECT
 DOMAIN, c-hzgt2.getui.com, REJECT
+DOMAIN, dnms.getui.com, REJECT
+DOMAIN, ido.getui.net, REJECT
 DOMAIN, sdk-conf.getui.com, REJECT
+DOMAIN, sdk-open-phone.getui.com, REJECT
 DOMAIN-SUFFIX, mobileservice.cn, REJECT
 DOMAIN-SUFFIX, getui.com, REJECT
 DOMAIN-SUFFIX, igexin.com, REJECT
@@ -223,6 +240,9 @@ DOMAIN, api.anythinktech.com, REJECT
 DOMAIN, tk.anythinktech.com, REJECT
 DOMAIN, da.anythinktech.com, REJECT
 
+# 小米
+DOMAIN, sdkconfig.ad.xiaomi.com, REJECT
+
 # 美团
 DOMAIN, al-log.d.meituan.net, REJECT
 DOMAIN, babel-statistics-android.d.meituan.net, REJECT
@@ -234,6 +254,10 @@ DOMAIN, route-stats.d.meituan.net, REJECT
 DOMAIN, dsp-x.jd.com, REJECT
 DOMAIN, xlog.jd.com, REJECT
 DOMAIN, janapi.jd.com, REJECT
+
+# 聚次方 - TopOn
+DOMAIN, api.mosspf.com, REJECT
+DOMAIN, da.mosspf.com, REJECT
 
 [Rewrite]
 # 字节跳动广告
@@ -249,5 +273,5 @@ DOMAIN, janapi.jd.com, REJECT
 
 [Script]
 
-[Mitm]
-hostname = ether-pack.pangolin-sdk-toutiao.com, video-dsp.pddpic.com, t-dsp.pinduoduo.com, images.pinduoduo.com, api-access.pangolin-sdk-toutiao?.com, sf*-fe-tos.pglstatp-toutiao.com
+[MitM]
+hostname = ether-pack.pangolin-sdk-toutiao.com, api-access.pangolin-sdk-toutiao?.com, sf*-fe-tos.pglstatp-toutiao.com, video-dsp.pddpic.com, t-dsp.pinduoduo.com, images.pinduoduo.com
