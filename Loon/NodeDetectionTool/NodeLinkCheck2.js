@@ -1,3 +1,7 @@
+/*
+脚本引用https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Sub-Store/Operator.js
+*/
+
 //NodeLinkCheck-SubStore-mini-2.0
 const $=new Env('NodeLinkCheck');const nodes={};function operator(a){const b=a['map'](c=>{let {name,server,type}=c;const d=getUniqName(name);c['name']=d;nodes[d]={'server':server,'type':type};return c;});$['setjson'](nodes,'RebuildNodeLineJsonByRE');return b;}function getUniqName(a,b){let c=b==null?-0x1:b;const d=''+a+(c>=0x0?getNumber(c):'');if(nodes[d]){return getUniqName(a,c+0x1);}else{return d;}}function getNumber(a){const b=['¹','²','³','⁴','⁵','⁶','⁷','⁸','⁹','¹⁰'];const c=b['length'];if(a<c){return''+b[a];}else{return''+b[Math['floor'](a/c)]+b[a%c];}}
 
