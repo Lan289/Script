@@ -2,7 +2,7 @@
 #!desc = 拦截常见的HTTPDNS服务 
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/HTTPDNS.png
 #!category: 复制：可莉🅥 VirgilClyne ,原链接：https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Block_HTTPDNS.plugin
-#!date = 2024-09-16 16:19:28
+#!date = 2024-09-25 16:19:28
 
 
 [Rule]
@@ -111,6 +111,7 @@ URL-REGEX, ^http:\/\/116\.63\.10\.31\/resolve, REJECT
 
 # 小米
 DOMAIN, httpdns.browser.miui.com, REJECT
+DOMAIN, resolver.msg.xiaomi.net, REJECT
 
 # 阿里巴巴
 DOMAIN, httpdns.alicdn.com, REJECT
@@ -266,5 +267,6 @@ DOMAIN, hd.xiaojukeji.com, REJECT
 # 虎牙
 ^https?:\/\/cdn\.wup\.huya\.com\/monitor\/monitor\.jsp reject
 
-[Mitm]
-hostname = 119.29.29.29, 203.107.1.1, 203.107.1.33, 203.107.1.66, 203.107.1.67, 203.107.1.97, 2401:b180:2000:30::1c, 2401:b180:2000:20::10, appconf.mail.163.com, 180.76.76.200, 180.76.76.112, cdn.wup.huya.com
+
+[MitM]
+hostname = 119.29.29.29, 203.107.1.1, 203.107.1.33, 203.107.1.66, 203.107.1.67, 203.107.1.97, 2401:b180:2000:30::1c, 2401:b180:2000:20::10, amdc.alipay.com, 180.76.76.200, 180.76.76.112, appconf.mail.163.com
