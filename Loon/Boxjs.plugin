@@ -3,7 +3,9 @@
 #!openUrl = http://boxjs.com
 #!homepage=https://chavyleung.gitbook.io/boxjs/
 #!icon=https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png
-#!category= 复制：https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin
+
+# copy：https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin
+
 #!date = 2024-06-18 00:28:27
 
 [Rule]
