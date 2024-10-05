@@ -1,6 +1,7 @@
 #!name=DNS enhanced
-#!desc=域名按所属DNS进行分流解析
-#!category= 复制：VirgilClyne，原链接：https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/DNS.plugin
+#!desc=域名按所属DNS进行分流
+
+# copy：https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/plugin/DNS.plugin
 
 [General]
 
@@ -427,6 +428,9 @@ hotspot.cslwifi.com = server:system
 *.yunpan.com = server:https://doh.360.cn/dns-query
 # 360短网址
 urlqh.cn = server:https://doh.360.cn/dns-query
+
+# 中国电信
+
 
 
 ########################################
