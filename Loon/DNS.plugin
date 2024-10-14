@@ -202,81 +202,81 @@ url.cn = server:system
 # > Bytedance
 # refer: https://www.volcengine.com/docs/6758/179060
 # 艾特迷
-*.amemv.com = server:180.184.1.1
+*.amemv.com = server:system
 # 西瓜 图片服务
-*.bdxiguaimg.com = server:180.184.1.1
+*.bdxiguaimg.com = server:system
 # 西瓜 静态资源
-*.bdxiguastatic.com = server:180.184.1.1
+*.bdxiguastatic.com = server:system
 # 字节跳动 UNPKG
-*.byted-static.com = server:180.184.1.1
+*.byted-static.com = server:system
 # 字节跳动
-*.bytedance.* = server:180.184.1.1
+*.bytedance.* = server:system
 # 字节跳动 DNS
-*.bytedns.net = server:180.184.1.1
+*.bytedns.net = server:system
 # 字节跳动 CDN 文件存储
-*.bytednsdoc.com = server:180.184.1.1
+*.bytednsdoc.com = server:system
 # 字节跳动 Goofy
-*.bytegoofy.com = server:180.184.1.1
+*.bytegoofy.com = server:system
 # 字节跳动 图片服务
-*.byteimg.com = server:180.184.1.1
+*.byteimg.com = server:system
 # 字节跳动 SCM
-*.bytescm.com = server:180.184.1.1
+*.bytescm.com = server:system
 # 字节跳动 TOS
-*.bytetos.com = server:180.184.1.1
+*.bytetos.com = server:system
 # 飞书企业服务平台
-*.bytexservice.com = server:180.184.1.1
+*.bytexservice.com = server:system
 # 抖音
-*.douyin.com = server:180.184.1.1
+*.douyin.com = server:system
 # 抖音 静态资源
-*.douyinpic.com = server:180.184.1.1
+*.douyinpic.com = server:system
 # 抖音 静态资源
-*.douyinstatic.com = server:180.184.1.1
+*.douyinstatic.com = server:system
 # 抖音 静态资源
-*.douyinvod.com = server:180.184.1.1
+*.douyinvod.com = server:system
 # FeelGood平台
-*.feelgood.cn = server:180.184.1.1
+*.feelgood.cn = server:system
 # 飞聊官网
-*.feiliao.com = server:180.184.1.1
+*.feiliao.com = server:system
 # 快手
-*.gifshow.com = server:180.184.1.1
+*.gifshow.com = server:system
 # 火山网
-*.huoshan.com = server:180.184.1.1
+*.huoshan.com = server:system
 # 火山直播
-*.huoshanzhibo.com = server:180.184.1.1
+*.huoshanzhibo.com = server:system
 # 抖音 dapm
-*.ibytedapm.com = server:180.184.1.1
+*.ibytedapm.com = server:system
 # 抖音 CDN
-*.iesdouyin.com = server:180.184.1.1
+*.iesdouyin.com = server:system
 # 西瓜视频
-*.ixigua.com = server:180.184.1.1
+*.ixigua.com = server:system
 # 快手
-*.kspkg.com = server:180.184.1.1
+*.kspkg.com = server:system
 # 抖音 静态资源
-*.pstatp.com = server:180.184.1.1
+*.pstatp.com = server:system
 # 今日头条
-*.snssdk.com = server:180.184.1.1
+*.snssdk.com = server:system
 # 今日头条
-*.toutiao.com = server:180.184.1.1
+*.toutiao.com = server:system
 # 今日头条
-*.toutiao13.com = server:180.184.1.1
+*.toutiao13.com = server:system
 # 今日头条 静态资源
-*.toutiao???.??? = server:180.184.1.1
+*.toutiao???.??? = server:system
 # 头条云
-*.toutiaocloud.cn = server:180.184.1.1
+*.toutiaocloud.cn = server:system
 # 头条云
-*.toutiaocloud.com = server:180.184.1.1
+*.toutiaocloud.com = server:system
 # 今日头条 建站
-*.toutiaopage.com = server:180.184.1.1
+*.toutiaopage.com = server:system
 # 悟空
-*.wukong.com = server:180.184.1.1
+*.wukong.com = server:system
 # 字节跳动 API
-*.zijieapi.com = server:180.184.1.1
+*.zijieapi.com = server:system
 # 字节跳动 图片服务
-*.zijieimg.com = server:180.184.1.1
+*.zijieimg.com = server:system
 # 今日头条 网页版
-*.zjbyte.com = server:180.184.1.1
+*.zjbyte.com = server:system
 # 字节跳动 CDN
-*.zjcdn.com = server:180.184.1.1
+*.zjcdn.com = server:system
 
 
 # > 百度
