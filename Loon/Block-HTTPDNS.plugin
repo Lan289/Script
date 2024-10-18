@@ -1,5 +1,6 @@
 #!name = 拦截HTTPDNS
-#!desc = 拦截常见的HTTPDNS服务 
+#!desc = 拦截常见的HTTPDNS服务
+ #!author = 可莉🅥[https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Block_HTTPDNS.plugin], VirgilClyne[https://github.com/VirgilClyne],Lan289[https://raw.githubusercontent.com/Lan289/Script/master/Loon/Block-HTTPDNS.plugin]
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/HTTPDNS.png
 
 # copy：https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Block_HTTPDNS.plugin
