@@ -394,6 +394,43 @@ _hotspot_.m2m = server:system
 hotspot.cslwifi.com = server:system
 
 
+# 中国移动
+117.161.2.5 = server:211.139.136.68
+*.10086kuaixiu.com = server:211.139.136.68
+*.12530.com = server:211.139.136.68
+*.139.com = server:211.139.136.68
+*.andfx.cn = server:211.139.136.68
+*.andfx.net = server:211.139.136.68
+*.chinamobile.com = server:211.139.136.68
+*.chinamobiledevice.com = server:211.139.136.68
+*.chinamobileltd.com = server:211.139.136.68
+*.cmccb2b.com = server:211.139.136.68
+*.cmdcl.cn = server:211.139.136.68
+*.cmdcxls.com = server:211.139.136.68
+*.cmicrwx.cn = server:211.139.136.68
+*.cmpassport.com = server:211.139.136.68
+*.cmvideo.cn = server:211.139.136.68
+*.cxzx10086.cn = server:211.139.136.68
+*.fetion-portal.com = server:211.139.136.68
+*.fetionpic.com = server:211.139.136.68
+*.fxltsbl.com = server:211.139.136.68
+*.lovev.cn = server:211.139.136.68
+*.lovev.com = server:211.139.136.68
+*.migu.cn = server:211.139.136.68
+*.migucc.cn = server:211.139.136.68
+*.migucdn.cn = server:211.139.136.68
+*.migucloud.com = server:211.139.136.68
+*.migufm.com = server:211.139.136.68
+*.migugk.com = server:211.139.136.68
+*.migutv.com = server:211.139.136.68
+*.miguvideo.com = server:211.139.136.68
+*.miguvideo.com.cn = server:211.139.136.68
+*.mmarket.com = server:211.139.136.68
+*.mmarket6.com = server:211.139.136.68
+*.monternet.com = server:211.139.136.68
+*.warmchina121.com = server:211.139.136.68
+*.zdsdp.com = server:211.139.136.68
+
 # 中国电信
 
 *.bing.com = server:https://8.8.8.8/dns-query
