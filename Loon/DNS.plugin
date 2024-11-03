@@ -8,7 +8,29 @@
 [General]
 
 [Host]
+# --- CUSTOM HOSTS ---
+# > IPv6
+ip6-localhost = ::1
+ip6-loopback = ::1
+ip6-localnet = fe00::0
+ip6-mcastprefix = ff00::0
+ip6-allnodes = ff02::1
+ip6-allrouters = ff02::2
+ip6-allhosts = ff02::3
 
+# > Encrypted DNS
+dns.google = 8.8.8.8
+dns64.dns.google = 2001:4860:4860::6464
+cloudflare-dns.com = 104.16.249.249
+1dot1dot1dot1.cloudflare-dns.com = 1.1.1.1
+one.one.one.one = 1.1.1.1
+dns.alidns.com = 223.5.5.5
+doh.pub = 1.12.12.12
+dot.pub = 1.12.12.12
+doh.360.cn = 23.6.48.18
+dot.360.cn = 101.198.198.198
+dns.twnic.tw = 101.101.101.101
+ordns.he.net = 74.82.42.42
 
 # > 腾讯
 # refer: https://www.dnspod.cn/products/publicdns
