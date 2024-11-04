@@ -332,12 +332,15 @@ DOMAIN, ssp.maplehaze.cn, REJECT
 DOMAIN-SUFFIX, lnk0.com, REJECT
 
 # 布里奇信息科技有限公司
-DOMAIN, tk.bridgeoos.com, REJECT
-DOMAIN, da.bridgeoos.com, REJECT
-DOMAIN, api.bridgeoos.com, REJECT
-DOMAIN, adx-os.bridgeoos.com, REJECT
-DOMAIN, adx-sg-req.bridgeoos.com, REJECT
-DOMAIN-SUFFIX, bridgeoos.com, REJECT
+DOMAIN,tk.bridgeoos.com, REJECT
+DOMAIN,da.bridgeoos.com, REJECT
+DOMAIN,api.bridgeoos.com, REJECT
+DOMAIN,adx-os.bridgeoos.com, REJECT
+DOMAIN,adx-sg-req.bridgeoos.com, REJECT,
+DOMAIN-SUFFIX,bridgeoos.com,REJECT, extended
+
+# 海南丽声影视文化传播有限公司
+DOMAIN,ad-evods.tianya.tv, REJECT
 
 [Rewrite]
 # 拼多多广告平台
