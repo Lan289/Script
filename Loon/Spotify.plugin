@@ -1,5 +1,5 @@
 #!name=Spotify
-#!desc=解锁premium+歌词翻译,登录后再打开脚本重启app等待脚本生效
+#!desc=解锁premium+歌词翻译,(1)注意节点地区可用性,(2)登录后再打开脚本,重启app等待脚本生效.
 #!category: 解锁premium:app2smile,原链接：https://raw.githubusercontent.com/app2smile/rules/master/plugin/spotify.plugin 
 #!icon = https://raw.githubusercontent.com/Aoyt520/jiumeiquanX/master/quanX/Spotify.png
 
