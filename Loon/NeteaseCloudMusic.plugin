@@ -2,23 +2,13 @@
 #!desc = 音乐的力量不是用来看广告的。
 #!author = Keywos[https://github.com/Keywos], RuCu6[https://github.com/RuCu6],Yuheng0101[https://github.com/Yuheng0101]
 #!icon = https://raw.githubusercontent.com/RuCu6/Loon/main/Icons/app/cloudmusic.png
-#!select = 隐藏漫游标签, 是, 否
-#!select = 隐藏动态标签, 是, 否
-#!select = 隐藏推荐标签, 是, 否
-#!select = 隐藏发现标签, 是, 否
-#!select = 隐藏首页问候语, 是, 否
-#!select = 隐藏首页排行榜, 是, 否
-#!select = 隐藏首页每日推荐, 是, 否
-#!select = 隐藏首页推荐歌单, 是, 否
-#!select = 隐藏首页最近常听, 是, 否
-#!select = 隐藏首页雷达歌单, 是, 否
-#!select = 隐藏首页音乐合伙人, 是, 否
-#!select = 隐藏首页推荐专属歌单, 是, 否
-#!select = 隐藏首页你的专属歌单, 是, 否
-
+#!author=RuCu6[https://github.com/RuCu6],Keywos[https://github.com/Keywos]
+#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/NeteaseCloudMusic.png
+#!tag=去广告
+#!loon_version=3.2.4(787)
 #!category: 复制：去广告,https://raw.githubusercontent.com/RuCu6/Loon/main/Plugins/cloudmusic.plugin
 
-#!date = 2024-09-16 02:35
+#!date=2025-02-28 20:08:47
 
 [Rule]
 DOMAIN, iadmat.nosdn.127.net, REJECT
