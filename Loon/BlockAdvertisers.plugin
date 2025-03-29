@@ -1,5 +1,5 @@
 #!name = 广告平台拦截器
-#!desc = 拦截tx、zjtd、bd、ali等广告平台的广告请求
+#!desc = 拦截广告平台的广告请求
 #!homepage = 
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Website_icon/120px/TencentAd.png
 
