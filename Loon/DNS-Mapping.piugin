@@ -1,5 +1,6 @@
 #!name=CN DNS映射
-#!desc=将CN域名分流到国内DNS解析。 数据来源: 1.blackmatrix7/ios_rule_script ChinaMaxNoIP 2.Loyalsoldier/v2ray-rules-dat china-list.txt 
+#!desc=将CN域名分流到国内DNS解析。
+#!category: 数据来源: 1.blackmatrix7/ios_rule_script ChinaMaxNoIP 2.Loyalsoldier/v2ray-rules-dat china-list.txt 
 #!author= 藤原とうふ店(自家用)
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
 #!category=DNS
