@@ -1,4 +1,4 @@
-#!name=CN DNS映射
+#!name= DNS Mapping
 #!desc= 域名按所属DNS进行分流解析。
 #!category: 数据来源: ASL4 
 #!author= 藤原とうふ店(自家用)
@@ -153,6 +153,8 @@ stun?.l.google.com = server:system
 *.zjbyte.com = server:180.184.1.1
 *.zjbyte.net = server:180.184.1.1
 *.zjgslb.com = server:180.184.1.1
+# >>汽水音乐<<
+*.qishui.com = server:180.184.1.1
 ## >> 艾特迷
 *.amemv.cn = server:180.184.1.1
 *.amemv.com = server:180.184.1.1
@@ -843,6 +845,7 @@ IP-CIDR,114.246.10.65/32,no-resolve
 *.y.qq.com = server:https://1.12.12.12/dns-query
 *.aqqmusic.tc.qq.com = server:https://1.12.12.12/dns-query
 # >> 酷狗
+*.kugou.com = server:https://1.12.12.12/dns-query
 *.gouwo.com = server:https://1.12.12.12/dns-query
 *.kgimg.com = server:https://1.12.12.12/dns-query
 *.kglink.cn = server:https://1.12.12.12/dns-query
@@ -1098,6 +1101,8 @@ IP-CIDR,114.246.10.65/32,no-resolve
 *.kwai-group.com = server:https://1.12.12.12
 
 ####### > 阿里巴巴 <########################
+
+*.alibabachengdun.com = server:https://223.6.6.6/dns-query
 *.10029.com = server:https://223.6.6.6/dns-query
 *.1688.com = server:https://223.6.6.6/dns-query
 *.17lai.org = server:https://223.6.6.6/dns-query
