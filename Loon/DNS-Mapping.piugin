@@ -483,7 +483,6 @@ IP-CIDR,114.246.10.65/32,no-resolve
 *.molo.cn = server:https://1.12.12.12/dns-query
 *.myapp.com = server:https://1.12.12.12/dns-query
 *.myqcloud.net = server:https://1.12.12.12/dns-query
-*.nba.com = server:https://1.12.12.12/dns-query
 *.onexmail.com = server:https://1.12.12.12/dns-query
 *.pcmgr-global.com = server:https://1.12.12.12/dns-query
 *.pengyou.com = server:https://1.12.12.12/dns-query
