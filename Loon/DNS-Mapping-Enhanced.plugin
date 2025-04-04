@@ -175,11 +175,8 @@
 *.i360mall.com = server:quic://223.5.5.5:853
 *.monidata.com = server:quic://223.5.5.5:853
 *.ncfimg.com = server:quic://223.5.5.5:853
-#
 *.nicaifu.com = server:quic://223.5.5.5:853
-#
 *.qikucdn.com = server:quic://223.5.5.5:853
-#
 *.xianousiqi.com = server:quic://223.5.5.5:853
 *.yiwanzhushou.com = server:quic://223.5.5.5:853
 
@@ -188,13 +185,11 @@
 *.360gtm.com = server:quic://223.5.5.5:853
 *.360imgcdn.com = server:quic://223.5.5.5:853
 *.360qhcdn.com = server:quic://223.5.5.5:853
-#
 *.360tpcdn.com = server:quic://223.5.5.5:853
 *.360vcloud.com = server:quic://223.5.5.5:853
 *.360vcloud.net = server:quic://223.5.5.5:853
 *.dhrest.com = server:quic://223.5.5.5:853
 *.dhrest2.com = server:quic://223.5.5.5:853
-#
 *.os-lb.com = server:quic://223.5.5.5:853
 *.qh-cdn.com = server:quic://223.5.5.5:853
 *.qh-dl.com = server:quic://223.5.5.5:853
@@ -227,51 +222,35 @@
 *.360doc4.net = server:quic://223.5.5.5:853
 
 ## >> 360安全路由器
-#
 
 ## >> 360安全实验室
 *.360adlab.com = server:quic://223.5.5.5:853
 *.360xlab.com = server:quic://223.5.5.5:853
-
 ## >> 360安全卫士国际版
 *.360totalsecurity.com = server:quic://223.5.5.5:853
-
 ## >> 360安全中心
 *.1360.com = server:quic://223.5.5.5:853
-#
-#
 *.360.com = server:quic://223.5.5.5:853
 *.3600.com = server:quic://223.5.5.5:853
-#
-#
 *.360safe.com = server:quic://223.5.5.5:853
 *.6360.com = server:quic://223.5.5.5:853
-#
 
 ## >> 360短网址
-#
 
 ## >> 360借条
-#
 *.360jrjietiao.com = server:quic://223.5.5.5:853
-#
 *.360shuke.com = server:quic://223.5.5.5:853
 *.jkjiekuan.com = server:quic://223.5.5.5:853
-#
 *.jrjiekuan.com = server:quic://223.5.5.5:853
-#
 *.xjietiao.com = server:quic://223.5.5.5:853
-
 ## >> 360金融
 *.360-jr.com = server:quic://223.5.5.5:853
 *.360jinrong.net = server:quic://223.5.5.5:853
 *.your360loans.com = server:quic://223.5.5.5:853
-
 ## >> 360信用
 *.360daikuan.com = server:quic://223.5.5.5:853
 *.360xinyongka.com = server:quic://223.5.5.5:853
 *.360xyws.com = server:quic://223.5.5.5:853
-
 ## >> 360联盟
 *.50union.com = server:quic://223.5.5.5:853
 
@@ -318,8 +297,6 @@
 *.ad-diamond.com = server:quic://223.5.5.5:853
 
 ## >> 爱酷网
-#
-#
 *.qihoo.net = server:quic://223.5.5.5:853
 *.qihu.com = server:quic://223.5.5.5:853
 
@@ -345,7 +322,6 @@
 *.kouxin.com = server:quic://223.5.5.5:853
 *.qhimg.com = server:quic://223.5.5.5:853
 *.qihoo.com = server:quic://223.5.5.5:853
-#
 
 ## >> 奇虎api
 
@@ -3324,32 +3300,23 @@ PROCESS-NAME,com.jjwxc.reader
 *.wwentua.com = server:quic://223.5.5.5:853
 
 # > 乐播投屏
-#
-#
-#
 *.mirrorcast.tv = server:quic://223.5.5.5:853
-#
 *.乐播.com = server:quic://223.5.5.5:853
 
 # > 乐居
-#
-#
 *.91leju.net = server:quic://223.5.5.5:853
 *.dichan.com = server:quic://223.5.5.5:853
 *.dichan.net = server:quic://223.5.5.5:853
 *.esfimg.com = server:quic://223.5.5.5:853
 *.fangdudu.com = server:quic://223.5.5.5:853
 *.houseimg.com = server:quic://223.5.5.5:853
-#
 *.ileju.com = server:quic://223.5.5.5:853
 *.jiajuimg.com = server:quic://223.5.5.5:853
-#
 *.leju.com = server:quic://223.5.5.5:853
 *.ljimg.com = server:quic://223.5.5.5:853
 *.quanup.com = server:quic://223.5.5.5:853
 *.sousea.com = server:quic://223.5.5.5:853
 *.xhaiwai.com = server:quic://223.5.5.5:853
-#
 *.xhwhouse.com = server:quic://223.5.5.5:853
 *.yiqisooimg.com = server:quic://223.5.5.5:853
 *.房产电商.com = server:quic://223.5.5.5:853
@@ -3359,24 +3326,15 @@ PROCESS-NAME,com.jjwxc.reader
 # > Lenovo
 *.blurdev.com = server:quic://223.5.5.5:853
 *.cftsupport.com = server:quic://223.5.5.5:853
-#
 *.ileapcloud.com = server:quic://223.5.5.5:853
-#
 *.lenovo.com = server:quic://223.5.5.5:853
-#
 *.lenovocloudos.com = server:quic://223.5.5.5:853
 *.lenovoeservice.com = server:quic://223.5.5.5:853
 *.lenovogame.com = server:quic://223.5.5.5:853
-#
 *.lenovomm.com = server:quic://223.5.5.5:853
-#
-#
 *.lxzjjt.com = server:quic://223.5.5.5:853
-#
 *.thinkcloudlab.com = server:quic://223.5.5.5:853
 *.thinkpad.com = server:quic://223.5.5.5:853
-#
-#
 *.联想职教集团.com = server:quic://223.5.5.5:853
 
 # >> 神奇工场
@@ -3384,16 +3342,11 @@ PROCESS-NAME,com.jjwxc.reader
 *.lenauth.com = server:quic://223.5.5.5:853
 *.lx.pub = server:quic://223.5.5.5:853
 *.lx.run = server:quic://223.5.5.5:853
-#
 *.zui.com = server:quic://223.5.5.5:853
-#
 *.zuk.com = server:quic://223.5.5.5:853
-#
 
 # >> 巨会玩游戏网站
-#
 *.juhuiwan.com = server:quic://223.5.5.5:853
-#
 *.juhuiwan.net = server:quic://223.5.5.5:853
 
 # > 乐视
@@ -3440,29 +3393,22 @@ PROCESS-NAME,com.jjwxc.reader
 *.6rooms.com = server:quic://223.5.5.5:853
 *.luyanhui.com = server:quic://223.5.5.5:853
 ## > 鲁大师
- 
 *.dualspace.com = server:quic://223.5.5.5:853
 *.dualspacetech.com = server:quic://223.5.5.5:853
 *.easyclean.fun = server:quic://223.5.5.5:853
- 
 *.kejids.com = server:quic://223.5.5.5:853
- 
- 
 *.ludashi.com = server:quic://223.5.5.5:853
-
 *.superlitetech.com = server:quic://223.5.5.5:853
- 
 *.xiaoluerhuo.com = server:quic://223.5.5.5:853
 *.xiaoluhaohuo.com = server:quic://223.5.5.5:853
 *.xiaoluyouxuan.com = server:quic://223.5.5.5:853
 *.youhua.com = server:quic://223.5.5.5:853
 
 ## > 绿米联创
- 
 *.aqara.com = server:quic://223.5.5.5:853
 *.lumiunited.com = server:quic://223.5.5.5:853
 ## > 马蜂窝
- 
+
 *.mafengwo.com = server:quic://223.5.5.5:853
 *.mafengwo.net = server:quic://223.5.5.5:853
 
@@ -3484,7 +3430,6 @@ PROCESS-NAME,com.jjwxc.reader
 
 ## > Maocloud
 *.maoyun.com = server:quic://223.5.5.5:853
- 
 *.maoyuncloud.com = server:quic://223.5.5.5:853
 
 ## > 美图网
@@ -3517,7 +3462,6 @@ PROCESS-NAME,com.jjwxc.reader
 *.meitudata.com = server:quic://223.5.5.5:853
 *.meituduoduo.com = server:quic://223.5.5.5:853
 *.meitufamily.com = server:quic://223.5.5.5:853
- 
 *.meitufans.com = server:quic://223.5.5.5:853
 *.meitugif.com = server:quic://223.5.5.5:853
 *.meituhezi.com = server:quic://223.5.5.5:853
@@ -3545,7 +3489,6 @@ PROCESS-NAME,com.jjwxc.reader
 *.meixinl.com = server:quic://223.5.5.5:853
 *.meiyan.com = server:quic://223.5.5.5:853
 *.meiyanstatic.com = server:quic://223.5.5.5:853
- 
 *.miraclevision.com = server:quic://223.5.5.5:853
 *.moonlightcam.com = server:quic://223.5.5.5:853
 *.moonlightcamera.com = server:quic://223.5.5.5:853
@@ -3950,10 +3893,9 @@ PROCESS-NAME,com.jjwxc.reader
 *.山灵.com = server:quic://223.5.5.5:853
 *.山灵数码.com = server:quic://223.5.5.5:853
 *.山灵音响.com = server:quic://223.5.5.5:853
+
 # 识农智能科技
-#
 *.senseagro.com = server:quic://223.5.5.5:853
-#
 
 # 世纪超星
 #
@@ -3962,15 +3904,12 @@ PROCESS-NAME,com.jjwxc.reader
 *.cxbiji.com = server:quic://223.5.5.5:853
 *.jikeiot.cloud = server:quic://223.5.5.5:853
 *.nihaoafrica.org = server:quic://223.5.5.5:853
-#
 *.sslawy.com = server:quic://223.5.5.5:853
 *.sslibrary.com = server:quic://223.5.5.5:853
 *.xxtmail.com = server:quic://223.5.5.5:853
 
 # 超星发现
-#
 *.xuexi365.com = server:quic://223.5.5.5:853
-#
 *.xuexi365.net = server:quic://223.5.5.5:853
 
 # 超星图书馆
@@ -3980,7 +3919,6 @@ PROCESS-NAME,com.jjwxc.reader
 *.mndqlib.net = server:quic://223.5.5.5:853
 *.ylike.net = server:quic://223.5.5.5:853
 *.zaifan.com = server:quic://223.5.5.5:853
-#
 *.zhihang100.com = server:quic://223.5.5.5:853
 
 # 超星学术视频
@@ -3994,15 +3932,12 @@ PROCESS-NAME,com.jjwxc.reader
 # 超星智慧教育
 *.chaoxingv.com = server:quic://223.5.5.5:853
 *.mti100.com = server:quic://223.5.5.5:853
-#
 *.uonline-sh.com = server:quic://223.5.5.5:853
 *.uonline-sh.net = server:quic://223.5.5.5:853
 
 # SMG 上海广播电视台
 *.cptn.tv = server:quic://223.5.5.5:853
-#
-#
-#
+
 
 # 上海聚效
 *.bubuying.net = server:quic://223.5.5.5:853
@@ -4036,51 +3971,34 @@ PROCESS-NAME,com.jjwxc.reader
 #
 *.cloudytrace.com = server:quic://223.5.5.5:853
 *.cloudytrace.org = server:quic://223.5.5.5:853
-#
-#
-#
-#
-#
-#
-#
 *.suning.com = server:quic://223.5.5.5:853
-#
 *.suningcdn.com = server:quic://223.5.5.5:853
 *.suningcdn.net = server:quic://223.5.5.5:853
 *.suningcloud.com = server:quic://223.5.5.5:853
-#
 *.suningdns.com = server:quic://223.5.5.5:853
 *.suningdns.net = server:quic://223.5.5.5:853
 *.suningestate.com = server:quic://223.5.5.5:853
-#
 *.suninggslb.net = server:quic://223.5.5.5:853
 *.suningholdings.com = server:quic://223.5.5.5:853
 *.suninghotel.com = server:quic://223.5.5.5:853
 *.suningmail.com = server:quic://223.5.5.5:853
-#
 *.suningyunyou.com = server:quic://223.5.5.5:853
 *.wuliuyun.com = server:quic://223.5.5.5:853
 *.yifubao.com = server:quic://223.5.5.5:853
-
 # Solidot
 *.solidot.org = server:quic://223.5.5.5:853
 
 # 随视传媒
 *.91friend.com = server:quic://223.5.5.5:853
-#
 *.aojiamarly.com = server:quic://223.5.5.5:853
 *.ebaidutv.com = server:quic://223.5.5.5:853
-#
 *.socialjia.com = server:quic://223.5.5.5:853
 *.weibopie.com = server:quic://223.5.5.5:853
 
 # 汇则成
-#
-#
 *.quyaoya.com = server:quic://223.5.5.5:853
 
 # 米铺家
-#
 *.mipujia.com = server:quic://223.5.5.5:853
 
 # 趣摇
@@ -4089,12 +4007,8 @@ PROCESS-NAME,com.jjwxc.reader
 
 # 泰康
 *.12333tc.com = server:quic://223.5.5.5:853
-#
-#
-#
 *.bjsjsch12333.com = server:quic://223.5.5.5:853
 *.changhu12333.com = server:quic://223.5.5.5:853
-#
 *.gzch12333.com = server:quic://223.5.5.5:853
 *.jmch12333.com = server:quic://223.5.5.5:853
 *.jxch12333.com = server:quic://223.5.5.5:853
@@ -4102,29 +4016,18 @@ PROCESS-NAME,com.jjwxc.reader
 *.sdhz12333.com = server:quic://223.5.5.5:853
 *.sdrz12333.com = server:quic://223.5.5.5:853
 *.shzch12333.com = server:quic://223.5.5.5:853
-#
 *.taihealthcare.com = server:quic://223.5.5.5:853
 *.taikang.com = server:quic://223.5.5.5:853
-#
 *.taikang.网址 = server:quic://223.5.5.5:853
-#
 *.taikanginv.com = server:quic://223.5.5.5:853
-#
 *.taikanglife.com = server:quic://223.5.5.5:853
-#
 *.taikanglife.net = server:quic://223.5.5.5:853
-#
-#
 *.taikangonline.com = server:quic://223.5.5.5:853
 *.taikangonline.net = server:quic://223.5.5.5:853
-#
 *.taikangph.com = server:quic://223.5.5.5:853
 *.taikangzhijia.com = server:quic://223.5.5.5:853
-#
 *.tanxingfuli.com = server:quic://223.5.5.5:853
-#
 *.tk-life.com = server:quic://223.5.5.5:853
-#
 *.tkhealthcare.com = server:quic://223.5.5.5:853
 *.tkmedicare.com = server:quic://223.5.5.5:853
 
@@ -4137,10 +4040,7 @@ PROCESS-NAME,com.jjwxc.reader
 *.taptap.com = server:quic://223.5.5.5:853
 
 # TCL
-#
-#
 *.tcl.com = server:quic://223.5.5.5:853
-#
 
 # Alcatel
 *.alcatel-home.com = server:quic://223.5.5.5:853
@@ -4162,9 +4062,6 @@ PROCESS-NAME,com.jjwxc.reader
 # 天涯社区
 *.tysurl.com = server:quic://223.5.5.5:853
 *.tianyaui.com = server:quic://223.5.5.5:853
-#
-#
-#
 *.hifortune.net = server:quic://223.5.5.5:853
 *.hainan.com = server:quic://223.5.5.5:853
 *.tianyablog.com = server:quic://223.5.5.5:853
@@ -4172,31 +4069,22 @@ PROCESS-NAME,com.jjwxc.reader
 *.gz12301.com = server:quic://223.5.5.5:853
 *.hainan.net = server:quic://223.5.5.5:853
 *.hibusiness.com = server:quic://223.5.5.5:853
-#
 
 # 天眼查
 #
 *.tianyancha.com = server:quic://223.5.5.5:853
 *.ty.ink = server:quic://223.5.5.5:853
-#
-#
-#
-#
 
 # 同程
-#
 *.17u.net = server:quic://223.5.5.5:853
 *.17usoft.com = server:quic://223.5.5.5:853
 *.17usoft.net = server:quic://223.5.5.5:853
-#
 *.elong.com = server:quic://223.5.5.5:853
 *.elongstatic.com = server:quic://223.5.5.5:853
 *.ly.com = server:quic://223.5.5.5:853
 
 # UCloud
 *.ecloud-gdu.com = server:quic://223.5.5.5:853
-#
-#
 *.ipbaohe.com = server:quic://223.5.5.5:853
 *.ipssh.net = server:quic://223.5.5.5:853
 *.u-cdn.net = server:quic://223.5.5.5:853
@@ -4204,8 +4092,6 @@ PROCESS-NAME,com.jjwxc.reader
 *.ucloudapi.com = server:quic://223.5.5.5:853
 *.ufileos.com = server:quic://223.5.5.5:853
 *.uhasadmin.com = server:quic://223.5.5.5:853
-#
-#
 
 # UCloudStack专有云
 #
@@ -4213,8 +4099,6 @@ PROCESS-NAME,com.jjwxc.reader
 *.ucloudstack.net = server:quic://223.5.5.5:853
 
 # UCloud专业基础云计算服务
-#
-#
 *.ucloud365.com = server:quic://223.5.5.5:853
 
 # Web安全防护
@@ -4231,12 +4115,10 @@ PROCESS-NAME,com.jjwxc.reader
 *.ucloudgda.com = server:quic://223.5.5.5:853
 
 # 优刻得云分发
-#
 *.ucgslb.com = server:quic://223.5.5.5:853
 *.ucgslb.info = server:quic://223.5.5.5:853
 *.ucgslb.net = server:quic://223.5.5.5:853
 *.ucgslb.top = server:quic://223.5.5.5:853
-#
 *.ugslb.com = server:quic://223.5.5.5:853
 *.ugslb.info = server:quic://223.5.5.5:853
 *.ugslb.net = server:quic://223.5.5.5:853
@@ -4262,7 +4144,6 @@ PROCESS-NAME,com.jjwxc.reader
 *.yupoo.com = server:quic://223.5.5.5:853
 
 # 点智连科技
-#
 *.upcdn.net = server:quic://223.5.5.5:853
 *.oncdp.com = server:quic://223.5.5.5:853
 
@@ -4289,13 +4170,10 @@ PROCESS-NAME,com.jjwxc.reader
 
 # Vivo
 *.bbk.com = server:quic://223.5.5.5:853
-#
 *.funtouchos.com = server:quic://223.5.5.5:853
 *.gdbbk.com = server:quic://223.5.5.5:853
 *.iqoo.com = server:quic://223.5.5.5:853
-#
 *.vivo.com = server:quic://223.5.5.5:853
-#
 *.vivo.xyz = server:quic://223.5.5.5:853
 *.vivoglobal.com = server:quic://223.5.5.5:853
 *.vivosjpt.com = server:quic://223.5.5.5:853
@@ -4304,39 +4182,26 @@ PROCESS-NAME,com.jjwxc.reader
 *.vsearch.club = server:quic://223.5.5.5:853
 
 # 玩咖欢聚
-#
 *.gm825.com = server:quic://223.5.5.5:853
-#
 *.gm825.net = server:quic://223.5.5.5:853
-#
 *.mhacn.com = server:quic://223.5.5.5:853
-#
 *.mhacn.net = server:quic://223.5.5.5:853
-#
-#
 *.wankacn.com = server:quic://223.5.5.5:853
-#
 *.wankacn.net = server:quic://223.5.5.5:853
 *.wankamall.com = server:quic://223.5.5.5:853
 
 # 大象领客
-#
 *.daxianglingke.com = server:quic://223.5.5.5:853
-#
-#
 *.daxianglink.com = server:quic://223.5.5.5:853
-#
 
 # 欢聚时代
 *.gdsa.com = server:quic://223.5.5.5:853
 *.hapjs.org = server:quic://223.5.5.5:853
 *.ita-alliance.com = server:quic://223.5.5.5:853
 *.itgsa.com = server:quic://223.5.5.5:853
-#
 *.shenyinhudong.com = server:quic://223.5.5.5:853
 
 # 快应用
-#
 *.quickingdata.com = server:quic://223.5.5.5:853
 *.quicklyopen.com = server:quic://223.5.5.5:853
 
@@ -4346,16 +4211,12 @@ PROCESS-NAME,com.jjwxc.reader
 *.wanmei.com = server:quic://223.5.5.5:853
 *.wanmei.net = server:quic://223.5.5.5:853
 *.wmupd.com = server:quic://223.5.5.5:853
-#
 *.wmwm.com = server:quic://223.5.5.5:853
 
 # 老虎网
 *.laohu.com = server:quic://223.5.5.5:853
 
 # 反恐精英：全球攻势
-#
-#
-#
 
 # 网宿科技
 *.51cdn.com = server:quic://223.5.5.5:853
@@ -4364,7 +4225,6 @@ PROCESS-NAME,com.jjwxc.reader
 *.94kuai.com = server:quic://223.5.5.5:853
 *.cdn40.com = server:quic://223.5.5.5:853
 *.chinanetcenter.com = server:quic://223.5.5.5:853
-#
 *.lxdns.com = server:quic://223.5.5.5:853
 *.lxdns.net = server:quic://223.5.5.5:853
 *.maasdk.com = server:quic://223.5.5.5:853
@@ -4423,8 +4283,6 @@ PROCESS-NAME,com.jjwxc.reader
 *.quantil.com = server:quic://223.5.5.5:853
 
 # 网宿国内加速平台
-#
-#
 *.wsdns.top = server:quic://223.5.5.5:853
 
 # 网宿海外加速平台
@@ -4438,7 +4296,6 @@ PROCESS-NAME,com.jjwxc.reader
 *.ovhlb.net = server:quic://223.5.5.5:853
 
 # 网宿服务平台
-#
 *.haplat.net = server:quic://223.5.5.5:853
 *.ourplat.net = server:quic://223.5.5.5:853
 *.wscdns.com = server:quic://223.5.5.5:853
@@ -4450,7 +4307,6 @@ PROCESS-NAME,com.jjwxc.reader
 
 # 网宿加速服务平台
 *.bjhlgw.com = server:quic://223.5.5.5:853
-#
 *.cusdvs.com = server:quic://223.5.5.5:853
 *.lxcdns.com = server:quic://223.5.5.5:853
 *.ourdvsssvip.com = server:quic://223.5.5.5:853
@@ -4466,7 +4322,6 @@ PROCESS-NAME,com.jjwxc.reader
 *.wswebpic.com = server:quic://223.5.5.5:853
 
 # 网宿云存储
-#
 *.wcsapi.com = server:quic://223.5.5.5:853
 *.wcsapi.net = server:quic://223.5.5.5:853
 
@@ -4484,11 +4339,9 @@ PROCESS-NAME,com.jjwxc.reader
 *.cdn30.org = server:quic://223.5.5.5:853
 *.cdn50.com = server:quic://223.5.5.5:853
 *.cdn60.com = server:quic://223.5.5.5:853
-#
 *.cdn90.com = server:quic://223.5.5.5:853
 *.cdn90.net = server:quic://223.5.5.5:853
 *.cdn90.org = server:quic://223.5.5.5:853
-#
 *.cdngtm.com = server:quic://223.5.5.5:853
 *.cloudcdnvip.com = server:quic://223.5.5.5:853
 *.dnsgtm.com = server:quic://223.5.5.5:853
@@ -4519,14 +4372,12 @@ PROCESS-NAME,com.jjwxc.reader
 *.ourwebpicvip.com = server:quic://223.5.5.5:853
 *.ovdlb.com = server:quic://223.5.5.5:853
 *.picdlb.com = server:quic://223.5.5.5:853
-#
 *.qtlcdn.net = server:quic://223.5.5.5:853
 *.qtlcdn360.info = server:quic://223.5.5.5:853
 *.qtlcdn360.top = server:quic://223.5.5.5:853
 *.qtlcdn360.xin = server:quic://223.5.5.5:853
 *.qtlcdn360.xyz = server:quic://223.5.5.5:853
 *.qtlcdncn.info = server:quic://223.5.5.5:853
-#
 *.qtlgslbcn.com = server:quic://223.5.5.5:853
 *.qtlgslbcn.info = server:quic://223.5.5.5:853
 *.qtlgslbcn.net = server:quic://223.5.5.5:853
@@ -4573,9 +4424,6 @@ PROCESS-NAME,com.jjwxc.reader
 
 # 网宿云DNS
 *.cdnetgdns.com = server:quic://223.5.5.5:853
-#
-#
-#
 *.idnscloud.com = server:quic://223.5.5.5:853
 *.wscgdns.com = server:quic://223.5.5.5:853
 *.wsclouddns.com = server:quic://223.5.5.5:853
@@ -4583,7 +4431,6 @@ PROCESS-NAME,com.jjwxc.reader
 *.wshttpdns.com = server:quic://223.5.5.5:853
 
 # 万方数据库
-#
 
 # 网心科技
 *.hiveshared.com = server:quic://223.5.5.5:853
@@ -4598,13 +4445,11 @@ PROCESS-NAME,com.jjwxc.reader
 #
 *.onethingtech.net = server:quic://223.5.5.5:853
 *.peiluyou.com = server:quic://223.5.5.5:853
-#
 *.uhabo.com = server:quic://223.5.5.5:853
 *.walk-live.com = server:quic://223.5.5.5:853
 *.xunleioa.com = server:quic://223.5.5.5:853
 
 # 玩客云
-#
 *.onethingcloud.com = server:quic://223.5.5.5:853
 
 # 微播
@@ -4684,7 +4529,6 @@ PROCESS-NAME,com.jjwxc.reader
 *.netease.com = server:quic://223.5.5.5:853
 
 # 网易大话西游
-#
 
 # 网易定位
 *.126.link = server:quic://223.5.5.5:853
@@ -4692,14 +4536,11 @@ PROCESS-NAME,com.jjwxc.reader
 *.dingwei.link = server:quic://223.5.5.5:853
 
 # 网易对象云
-#
 *.163cms.com = server:quic://223.5.5.5:853
 *.163nos.com = server:quic://223.5.5.5:853
 *.163yun.com = server:quic://223.5.5.5:853
-#
 
 # 网易飞飞
-#
 
 # 网易互客
 *.hukeck.com = server:quic://223.5.5.5:853
@@ -4720,8 +4561,6 @@ PROCESS-NAME,com.jjwxc.reader
 *.kada163.com = server:quic://223.5.5.5:853
 
 # 网易梦幻西游
-#
-
 
 # 网易七鱼
 *.qiyukf.com = server:quic://223.5.5.5:853
@@ -4767,18 +4606,9 @@ PROCESS-NAME,com.jjwxc.reader
 # 有道
 *.126.fm = server:quic://223.5.5.5:853
 *.163.fm = server:quic://223.5.5.5:853
-#
-#
 *.ydstatic.com = server:quic://223.5.5.5:853
-#
-*.yodao.com = server:quic://223.5.5.5:853
-#
-*.yodao.info = server:quic://223.5.5.5:853
-*.yodao.net = server:quic://223.5.5.5:853
-*.yodao.org = server:quic://223.5.5.5:853
+*.yodao.* = server:quic://223.5.5.5.5:853
 *.youdao.com = server:quic://223.5.5.5:853
-#
-#
 
 # 🐷 网易云音乐
 *.netease.ugcvideoss.ourdvs.com = server:quic://223.5.5.5:853
@@ -4807,14 +4637,11 @@ PROCESS-NAME,com.jjwxc.reader
 
 # 问卷星
 *.sojump.com = server:quic://223.5.5.5:853
-#
 *.wjx.com = server:quic://223.5.5.5:853
 *.wjx.top = server:quic://223.5.5.5:853
 
 # 连连淘
-#
 *.lianliantao.net = server:quic://223.5.5.5:853
-#
 *.lianliantaoshop.com = server:quic://223.5.5.5:853
 
 # 连尚头条
@@ -4838,42 +4665,29 @@ PROCESS-NAME,com.jjwxc.reader
 *.wol.tv = server:quic://223.5.5.5:853
 *.wolai.com = server:quic://223.5.5.5:853
 *.wolai.ren = server:quic://223.5.5.5:853
-#
 *.woyun.work = server:quic://223.5.5.5:853
 
 # 爱浪去
-#
 *.ilangqu.com = server:quic://223.5.5.5:853
-#
 
 # 看点
-#
 *.kandian.com = server:quic://223.5.5.5:853
 *.kandian.net = server:quic://223.5.5.5:853
 *.kandian.tv = server:quic://223.5.5.5:853
 
 # 看游戏频道
-#
 *.kanyouxi.com = server:quic://223.5.5.5:853
-#
 *.kanyouxi.tv = server:quic://223.5.5.5:853
-
 # 轻邮箱
-#
 *.qingmail.com = server:quic://223.5.5.5:853
 
 # 苏打首页
 *.aduspot.com = server:quic://223.5.5.5:853
-#
 *.sinauda.com = server:quic://223.5.5.5:853
 
 # 台湾游戏频道
-#
-#
 
 # 图鸟网
-#
-#
 
 # 伊迪艾斯
 *.4sender.com = server:quic://223.5.5.5:853
@@ -4911,26 +4725,18 @@ PROCESS-NAME,com.jjwxc.reader
 *.xiami.net = server:quic://223.5.5.5:853
 
 # 小米
-#
 *.aleenote.com = server:quic://223.5.5.5:853
-#
-#
 *.facephoto.com = server:quic://223.5.5.5:853
 *.heihei.com = server:quic://223.5.5.5:853
-#
 *.i3ciebwk6ixfb.com = server:quic://223.5.5.5:853
 *.kewucool.com = server:quic://223.5.5.5:853
 *.m3-cloud.com = server:quic://223.5.5.5:853
-#
 *.mgslb.com = server:quic://223.5.5.5:853
 *.mgslb.net = server:quic://223.5.5.5:853
 *.mgslb.org = server:quic://223.5.5.5:853
 *.mi.中国 = server:quic://223.5.5.5:853
-#
 *.mi.com = server:quic://223.5.5.5:853
 *.mi0.cc = server:quic://223.5.5.5:853
-#
-#
 *.mij.cc = server:quic://223.5.5.5:853
 *.mijia.tech = server:quic://223.5.5.5:853
 *.miot-spec.org = server:quic://223.5.5.5:853
@@ -4938,14 +4744,12 @@ PROCESS-NAME,com.jjwxc.reader
 *.miyun.com = server:quic://223.5.5.5:853
 *.xiaomimobile.com = server:quic://223.5.5.5:853
 *.xiaomiprint.com = server:quic://223.5.5.5:853
-#
 *.xiaomisa.com = server:quic://223.5.5.5:853
 *.xiaomisa.net = server:quic://223.5.5.5:853
 *.xiaomisa.org = server:quic://223.5.5.5:853
 *.zhutidasai.com = server:quic://223.5.5.5:853
 
 # MIUI米柚
-#
 *.miui.com = server:quic://223.5.5.5:853
 
 # 米聊
@@ -4973,9 +4777,7 @@ PROCESS-NAME,com.jjwxc.reader
 *.xiaomiev.com = server:quic://223.5.5.5:853
 
 # 小米生态云
-#
 *.mi-ae.com = server:quic://223.5.5.5:853
-#
 *.mi-ae.net = server:quic://223.5.5.5:853
 
 # 小米网
@@ -4994,36 +4796,21 @@ PROCESS-NAME,com.jjwxc.reader
 *.mi-img4.com = server:quic://223.5.5.5:853
 *.mi-img5.com = server:quic://223.5.5.5:853
 *.mi-static.com = server:quic://223.5.5.5:853
-#
-#
-#
 *.micode.net = server:quic://223.5.5.5:853
 *.mieco.net = server:quic://223.5.5.5:853
 *.mikge.com = server:quic://223.5.5.5:853
 *.milliant.com = server:quic://223.5.5.5:853
-#
-#
-#
 *.miredian.com = server:quic://223.5.5.5:853
-#
 *.mixinshe.com = server:quic://223.5.5.5:853
 *.peijian.com = server:quic://223.5.5.5:853
-#
-#
 *.xiaomi.com = server:quic://223.5.5.5:853
 *.xiaomi.net = server:quic://223.5.5.5:853
 *.xiaomi.org = server:quic://223.5.5.5:853
-#
 *.xiaomicorp.com = server:quic://223.5.5.5:853
-#
 *.xiaomicorp.net = server:quic://223.5.5.5:853
-#
 *.xiaomidns.com = server:quic://223.5.5.5:853
-#
 *.xiaomidns.net = server:quic://223.5.5.5:853
-#
 *.xiaomiinc.com = server:quic://223.5.5.5:853
-#
 *.xiaomiinc.net = server:quic://223.5.5.5:853
 *.xiaominr.com = server:quic://223.5.5.5:853
 *.xiaomiwear.com = server:quic://223.5.5.5:853
