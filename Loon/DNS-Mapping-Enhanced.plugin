@@ -828,11 +828,7 @@ PROCESS-NAME,tv.danmaku.bili
 *.anitama.net = server:quic://223.5.5.5:853
 *.b23.tv = server:quic://223.5.5.5:853
 *.baka.im = server:quic://223.5.5.5:853
-#
-#
-#
-#
-#
+*.biliapi.* = server:quic://223.5.5.5:853
 *.biliapi.com = server:quic://223.5.5.5:853
 *.bilibili.* = server:quic://223.5.5.5:853
 *.bilibiligame.co = server:quic://223.5.5.5:853
@@ -877,13 +873,6 @@ PROCESS-NAME,tv.danmaku.bili
 *.bridgeoos.com = server:quic://223.5.5.5:853
 *.combocn.com = server:quic://223.5.5.5:853
 *.toponadss.com = server:quic://223.5.5.5:853
-// ==UserScript== 
-// @name         
-// @version      0.0
-// @description  
-// @match        *
-// @grant        none
-// ==/UserScript== 
 
 ## > 财新传媒
 #
