@@ -1,3 +1,11 @@
+// ==UserScript== 
+// @name         
+// @version      0.0
+// @description  
+// @match        *
+// @grant        none
+// ==/UserScript== 
+
 #!name= DNS Mapping
 #!desc= 域名按DNS映射进行解析。
 #!category: 数据来源: LM-firefly
@@ -794,41 +802,125 @@
 *.zhanqu.tv = server:quic://223.5.5.5:853
 
 ## > 哔哩哔哩
-PROCESS-NAME,com.bilibili.app.in
-PROCESS-NAME,tv.danmaku.bili
+# > BiliBili
+# BiliBili upos视频服务器（阿里云）
+upos-sz-mirrorali.bilivideo.com = server:https://dns.alidns.com/dns-query
+upos-sz-mirrorali?.bilivideo.com = server:https://dns.alidns.com/dns-query
+upos-sz-mirrorali??.bilivideo.com = server:https://dns.alidns.com/dns-query
+# BiliBili upos视频服务器（百度云）
+upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76
+# BiliBili upos视频服务器（腾讯云）
+upos-sz-mirrorcos.bilivideo.com = server:https://doh.pub/dns-query
+upos-sz-mirrorcos?.bilivideo.com = server:https://doh.pub/dns-query
+upos-sz-mirrorcos??.bilivideo.com = server:https://doh.pub/dns-query
+# BiliBili upos视频服务器（百度云）
+upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76
+# BiliBili upos视频服务器（腾讯云）
+upos-sz-upcdntx.bilivideo.com = server:https://doh.pub/dns-query
+0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com = server:quic://223.5.5.5:853
+0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com = server:quic://223.5.5.5:853
+0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com = server:quic://223.5.5.5:853
+0gr4uqmtt8y41hcjsgrzdrctt.ourdvsss.com = server:quic://223.5.5.5:853
+0gr4uqmtt8y41hcjsgrzdrctu.ourdvsss.com = server:quic://223.5.5.5:853
+0gr4uqmtt8y41hcjz8yzdnc31.ourdvsss.com = server:quic://223.5.5.5:853
+0gr4uqmtt8y41hcjz8yzdnc3t.ourdvsss.com = server:quic://223.5.5.5:853
+0gr4uqmtt8y41hcjzgazdrpba.ourdvsss.com = server:quic://223.5.5.5:853
+0gr4uqmtt8y41hcjzgazdrpbz.ourdvsss.com = server:quic://223.5.5.5:853
+0gr4uqmtt8y41hcjzgazdrpjt.ourdvsss.com = server:quic://223.5.5.5:853
+0gr5dgmttgha1hcj38yzdncb3.ourdvsss.com = server:quic://223.5.5.5:853
+112-81-125-43.dhost.00cdn.com = server:quic://223.5.5.5:853
+113-219-145-1.ksyungslb.com = server:quic://223.5.5.5:853
+114-236-92-129.ksyungslb.com = server:quic://223.5.5.5:853
+180-101-74-1.ksyungslb.com = server:quic://223.5.5.5:853
+1geadrmttge3nhcjwgazdope.ourdvsss.com = server:quic://223.5.5.5:853
+1geadrmttge3nhcjwgwzdqqe.ourdvsss.com = server:quic://223.5.5.5:853
+1gr3uomttgr31hcjo8yzdnco.ourdvsss.com = server:quic://223.5.5.5:853
+1gr3uomttgr31hcjo8yzdnpy.ourdvsss.com = server:quic://223.5.5.5:853
+1gr3uomttgr31hcjtgezdkcy.ourdvsss.com = server:quic://223.5.5.5:853
+1gr4uqmtt8y41hcjigazdqca.ourdvsss.com = server:quic://223.5.5.5:853
+1gr4uqmtt8y41hcjigazdqce.ourdvsss.com = server:quic://223.5.5.5:853
+1gr4uqmtt8y41hcjigazdqco.ourdvsss.com = server:quic://223.5.5.5:853
+1gr4uqmtt8y41hcjigazdqpo.ourdvsss.com = server:quic://223.5.5.5:853
+1gr4uqmtt8y41hcjzgwzdkqe.ourdvsss.com = server:quic://223.5.5.5:853
+1gr5dgmttgha1hcj38yzdcca.ourdvsss.com = server:quic://223.5.5.5:853
+1gr5dgmttgha1hcj38yzdcco.ourdvsss.com = server:quic://223.5.5.5:853
+1gr5dgmttgha1hcj38yzdkca.ourdvsss.com = server:quic://223.5.5.5:853
+1gr5dgmttgha1hcj38yzdkco.ourdvsss.com = server:quic://223.5.5.5:853
+1gr5dgmttgha1hcj38yzdkpe.ourdvsss.com = server:quic://223.5.5.5:853
+1gr5dgmttgha1hcj38yzdkpy.ourdvsss.com = server:quic://223.5.5.5:853
+1gr5dgmttgha1hcj38yzdkqy.ourdvsss.com = server:quic://223.5.5.5:853
+1gr5dgmttgha1hcj3gczdcpa.ourdvsss.com = server:quic://223.5.5.5:853
+1gr5dgmttgha1hcj3gczdcpe.ourdvsss.com = server:quic://223.5.5.5:853
+1gr5dgmttgha1hcj3gczdcpo.ourdvsss.com = server:quic://223.5.5.5:853
+1gr5dgmttgha1hcj3gczdcqy.ourdvsss.com = server:quic://223.5.5.5:853
+1gr5dgmttgha1hcttgrzdnpo.ourdvsss.com = server:quic://223.5.5.5:853
+1graukmttga4nhcjtgozdgce.ourdvsss.com = server:quic://223.5.5.5:853
+218-91-225-1.ksyungslb.com = server:quic://223.5.5.5:853
+219-155-150-1.ksyungslb.com = server:quic://223.5.5.5:853
+222-188-6-1.ksyungslb.com = server:quic://223.5.5.5:853
+36-104-134-1.ksyungslb.com = server:quic://223.5.5.5:853
+36-25-252-1.ksyungslb.com = server:quic://223.5.5.5:853
+3ge3drmttga5nhcbqge3ur.ourdvsss.com = server:quic://223.5.5.5:853
+3geauymtsgrzdnqbofa5do.ourdvsss.com = server:quic://223.5.5.5:853
+3geauymtsgrzdnqbofa5dy.ourdvsss.com = server:quic://223.5.5.5:853
+3geauymtsgrzdrcbzfahue.ourdvsss.com = server:quic://223.5.5.5:853
+3geauymtsgrzdrcbzfahuk.ourdvsss.com = server:quic://223.5.5.5:853
+4go41hcjtgazdoctqge4o.ourdvsss.com = server:quic://223.5.5.5:853
+p-bstarstatic.akamaized.net = server:quic://223.5.5.5:853
+p.bstarstatic.com = server:quic://223.5.5.5:853
+upos-bstar-mirrorakam.akamaized.net = server:quic://223.5.5.5:853
+upos-bstar1-mirrorakam.akamaized.net = server:quic://223.5.5.5:853
 *.acg.tv = server:quic://223.5.5.5:853
 *.acgvideo.com = server:quic://223.5.5.5:853
-#
+*.animetamashi.cn = server:quic://223.5.5.5:853
 *.animetamashi.com = server:quic://223.5.5.5:853
-#
+*.anitama.cn = server:quic://223.5.5.5:853
 *.anitama.net = server:quic://223.5.5.5:853
 *.b23.tv = server:quic://223.5.5.5:853
 *.baka.im = server:quic://223.5.5.5:853
-*.biliapi.* = server:quic://223.5.5.5:853
+*.bigfun.cn = server:quic://223.5.5.5:853
+*.bigfunapp.cn = server:quic://223.5.5.5:853
+*.bili22.cn = server:quic://223.5.5.5:853
+*.bili2233.cn = server:quic://223.5.5.5:853
+*.bili23.cn = server:quic://223.5.5.5:853
+*.bili33.cn = server:quic://223.5.5.5:853
 *.biliapi.com = server:quic://223.5.5.5:853
-*.bilibili.* = server:quic://223.5.5.5:853
+*.biliapi.net = server:quic://223.5.5.5:853
+*.bilibili.cc = server:quic://223.5.5.5:853
+*.bilibili.cn = server:quic://223.5.5.5:853
+*.bilibili.co = server:quic://223.5.5.5:853
+*.bilibili.com = server:quic://223.5.5.5:853
+*.bilibili.net = server:quic://223.5.5.5:853
+*.bilibili.tv = server:quic://223.5.5.5:853
+*.bilibiligame.cn = server:quic://223.5.5.5:853
 *.bilibiligame.co = server:quic://223.5.5.5:853
 *.bilibiligame.net = server:quic://223.5.5.5:853
-#
+*.bilibilipay.cn = server:quic://223.5.5.5:853
+*.bilibilipay.com = server:quic://223.5.5.5:853
 *.bilicdn1.com = server:quic://223.5.5.5:853
 *.bilicdn2.com = server:quic://223.5.5.5:853
 *.bilicdn3.com = server:quic://223.5.5.5:853
 *.bilicdn4.com = server:quic://223.5.5.5:853
 *.bilicdn5.com = server:quic://223.5.5.5:853
-#
+*.bilicomics.com = server:quic://223.5.5.5:853
+*.biligame.cn = server:quic://223.5.5.5:853
 *.biligame.co = server:quic://223.5.5.5:853
 *.biligame.com = server:quic://223.5.5.5:853
 *.biligame.net = server:quic://223.5.5.5:853
 *.biligo.com = server:quic://223.5.5.5:853
 *.biliimg.com = server:quic://223.5.5.5:853
+*.biliintl.co = server:quic://223.5.5.5:853
 *.biliintl.com = server:quic://223.5.5.5:853
 *.biliplus.com = server:quic://223.5.5.5:853
-#
+*.bilivideo.cn = server:quic://223.5.5.5:853
 *.bilivideo.com = server:quic://223.5.5.5:853
 *.bilivideo.net = server:quic://223.5.5.5:853
 *.corari.com = server:quic://223.5.5.5:853
+*.dreamcast.hk = server:quic://223.5.5.5:853
 *.dyhgames.com = server:quic://223.5.5.5:853
 *.hdslb.com = server:quic://223.5.5.5:853
+*.hdslb.com.w.kunlunhuf.com = server:quic://223.5.5.5:853
+*.hdslb.com.w.kunlunpi.com = server:quic://223.5.5.5:853
 *.hdslb.net = server:quic://223.5.5.5:853
 *.hdslb.org = server:quic://223.5.5.5:853
 *.im9.com = server:quic://223.5.5.5:853
@@ -836,12 +928,12 @@ PROCESS-NAME,tv.danmaku.bili
 *.mcbbs.net = server:quic://223.5.5.5:853
 *.mincdn.com = server:quic://223.5.5.5:853
 *.sharejoytech.com = server:quic://223.5.5.5:853
+*.smtcdns.net = server:quic://223.5.5.5:853
 *.upos-hz-mirrorakam.akamaized.net = server:quic://223.5.5.5:853
 *.uposdash-302-bilivideo.yfcdn.net = server:quic://223.5.5.5:853
 *.yo9.com = server:quic://223.5.5.5:853
-*.ksyungslb.com = server:quic://223.5.5.5:853
-*.112-81-125-43.dhost.00cdn.com = server:quic://223.5.5.5:853
-*.ourdvsss.com = server:quic://223.5.5.5:853
+
+
 ## > 布里奇信息科技
 *.anyrtb.com = server:quic://223.5.5.5:853
 *.anythinktech.com = server:quic://223.5.5.5:853
