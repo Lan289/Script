@@ -810,6 +810,62 @@ upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76
 upos-sz-upcdntx.bilivideo.com = server:https://1.12.12.12/dns-query
 
 
+## > 哔哩哔哩
+*.ourdvsss.com = server:https://223.5.5.5/dns-query
+112-81-125-43.dhost.00cdn.com = server:https://223.5.5.5/dns-query
+*.ksyungslb.com = server:https://223.5.5.5/dns-query
+p-bstarstatic.akamaized.net = server:https://223.5.5.5/dns-query
+*.bstarstatic.com = server:https://223.5.5.5/dns-query
+upos-bstar-mirrorakam.akamaized.net = server:https://223.5.5.5/dns-query
+*.akamaized.net = server:https://223.5.5.5/dns-query
+*.acg.tv = server:https://223.5.5.5/dns-query
+*.acgvideo.com = server:https://223.5.5.5/dns-query
+*.animetamashi.com = server:https://223.5.5.5/dns-query
+*.anitama.net = server:https://223.5.5.5/dns-query
+*.b23.tv = server:https://223.5.5.5/dns-query
+*.baka.im = server:https://223.5.5.5/dns-query
+*.bilibili.* = server:https://223.5.5.5/dns-query
+*.biliapi.* = server:https://223.5.5.5/dns-query
+*.biliapi.com = server:https://223.5.5.5/dns-query
+*.biliapi.net = server:https://223.5.5.5/dns-query
+*.bilibiligame.co = server:https://223.5.5.5/dns-query
+*.bilibiligame.net = server:https://223.5.5.5/dns-query
+*.bilibilipay.com = server:https://223.5.5.5/dns-query
+*.bilicdn1.com = server:https://223.5.5.5/dns-query
+*.bilicdn2.com = server:https://223.5.5.5/dns-query
+*.bilicdn3.com = server:https://223.5.5.5/dns-query
+*.bilicdn4.com = server:https://223.5.5.5/dns-query
+*.bilicdn5.com = server:https://223.5.5.5/dns-query
+*.bilicomics.com = server:https://223.5.5.5/dns-query
+*.biligame.co = server:https://223.5.5.5/dns-query
+*.biligame.com = server:https://223.5.5.5/dns-query
+*.biligame.net = server:https://223.5.5.5/dns-query
+*.biligo.com = server:https://223.5.5.5/dns-query
+*.biliimg.com = server:https://223.5.5.5/dns-query
+*.biliintl.co = server:https://223.5.5.5/dns-query
+*.biliintl.com = server:https://223.5.5.5/dns-query
+*.biliplus.com = server:https://223.5.5.5/dns-query
+*.bilivideo.cn = server:https://223.5.5.5/dns-query
+*.bilivideo.com = server:https://223.5.5.5/dns-query
+*.bilivideo.net = server:https://223.5.5.5/dns-query
+*.corari.com = server:https://223.5.5.5/dns-query
+*.dreamcast.hk = server:https://223.5.5.5/dns-query
+*.dyhgames.com = server:https://223.5.5.5/dns-query
+*.hdslb.com = server:https://223.5.5.5/dns-query
+*.hdslb.com.w.kunlunhuf.com = server:https://223.5.5.5/dns-query
+*.hdslb.com.w.kunlunpi.com = server:https://223.5.5.5/dns-query
+*.hdslb.net = server:https://223.5.5.5/dns-query
+*.hdslb.org = server:https://223.5.5.5/dns-query
+*.im9.com = server:https://223.5.5.5/dns-query
+*.maoercdn.com = server:https://223.5.5.5/dns-query
+*.mcbbs.net = server:https://223.5.5.5/dns-query
+*.mincdn.com = server:https://223.5.5.5/dns-query
+*.sharejoytech.com = server:https://223.5.5.5/dns-query
+*.smtcdns.net = server:https://223.5.5.5/dns-query
+*.upos-hz-mirrorakam.akamaized.net = server:https://223.5.5.5/dns-query
+*.uposdash-302-bilivideo.yfcdn.net = server:https://223.5.5.5/dns-query
+*.yo9.com = server:https://223.5.5.5/dns-query
+
 
 ## > 布里奇信息科技
 *.anyrtb.com = server:https://223.5.5.5/dns-query
@@ -1144,43 +1200,29 @@ upos-sz-upcdntx.bilivideo.com = server:https://1.12.12.12/dns-query
 *.c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net = server:https://223.5.5.5/dns-query
 
 ## > EastMoney (东方财富)
-#
-#
-#
-#
-#
-#
 *.dfcfs.com = server:https://223.5.5.5/dns-query
 *.dfcfw.com = server:https://223.5.5.5/dns-query
 *.dongfanglicaishi.com = server:https://223.5.5.5/dns-query
 *.eastmoney.com = server:https://223.5.5.5/dns-query
 *.eastmoneyfutures.com = server:https://223.5.5.5/dns-query
 *.emsec.hk = server:https://223.5.5.5/dns-query
-#
 *.haitunzhibo.com = server:https://223.5.5.5/dns-query
 *.langke.tv = server:https://223.5.5.5/dns-query
-#
-#
 *.txjhqh.com = server:https://223.5.5.5/dns-query
-#
 *.uufund.com = server:https://223.5.5.5/dns-query
 *.xzsec.com = server:https://223.5.5.5/dns-query
 *.zhaiba.com = server:https://223.5.5.5/dns-query
 
 ## >> 天天基金
 #
-*.95021.com = server:https://223.5.5.5/dns-query
-#
+*.95021.com = server:https://223.5.5.5/dns-queryl
 *.dingqibao.com = server:https://223.5.5.5/dns-query
-#
-#
 *.huoqibao.com = server:https://223.5.5.5/dns-query
 #
 
 ## >> 中财所
 #
 *.zhongcaisuo.com = server:https://223.5.5.5/dns-query
-#
 
 ## > ENFI
 *.enfi.cloud = server:https://223.5.5.5/dns-query
@@ -1382,8 +1424,6 @@ upos-sz-upcdntx.bilivideo.com = server:https://1.12.12.12/dns-query
 *.bescloud.com = server:https://223.5.5.5/dns-query
 *.besclouds.com = server:https://223.5.5.5/dns-query
 *.cdnhwcibv122.com = server:https://223.5.5.5/dns-query
-#
-#
 *.dbankedge.asia = server:https://223.5.5.5/dns-query
 #
 *.dbankedge.net = server:https://223.5.5.5/dns-query
@@ -1400,22 +1440,13 @@ upos-sz-upcdntx.bilivideo.com = server:https://1.12.12.12/dns-query
 *.huaweiief.com = server:https://223.5.5.5/dns-query
 *.huaweils.com = server:https://223.5.5.5/dns-query
 *.huaweirtc.com = server:https://223.5.5.5/dns-query
-#
-#
-#
 *.huaweistatic.com = server:https://223.5.5.5/dns-query
-#
 *.huaweiyun.com = server:https://223.5.5.5/dns-query
 *.hwcloudlive.com = server:https://223.5.5.5/dns-query
-#
-
 *.hwcloudvis.com = server:https://223.5.5.5/dns-query
 *.hwocloud.com = server:https://223.5.5.5/dns-query
-#
-#
 *.myhwcdn.com = server:https://223.5.5.5/dns-query
 *.myhwcloudlive.com = server:https://223.5.5.5/dns-query
-#
 *.myhwclouds.com = server:https://223.5.5.5/dns-query
 *.owsgo.com = server:https://223.5.5.5/dns-query
 *.saasops.tech = server:https://223.5.5.5/dns-query
@@ -1529,12 +1560,6 @@ upos-sz-upcdntx.bilivideo.com = server:https://1.12.12.12/dns-query
 *.zuoshujiang.com = server:https://223.5.5.5/dns-query
 
 ## > 方正电子
-#
-#
-#
-#
-#
-#
 *.fzyun.net = server:https://223.5.5.5/dns-query
 *.newaircloud.com = server:https://223.5.5.5/dns-query
 *.wisestcloud.com = server:https://223.5.5.5/dns-query
@@ -1645,8 +1670,6 @@ upos-sz-upcdntx.bilivideo.com = server:https://1.12.12.12/dns-query
 *.yiyaojd.com = server:https://223.5.5.5/dns-query
 
 ## >> 京东商城
-#
-#
 *.360buy.com = server:https://223.5.5.5/dns-query
 #
 *.360buyimg.com = server:https://223.5.5.5/dns-query
@@ -2053,9 +2076,6 @@ upos-sz-upcdntx.bilivideo.com = server:https://1.12.12.12/dns-query
 *.ileopard.com = server:https://223.5.5.5/dns-query
 
 ## >> 金山文档
-#
-#
-#
 #
 
 ## >> 金山云
