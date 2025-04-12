@@ -46,6 +46,8 @@ update.googleapis.com = server:https://120.53.53.53/dns-query
 translate.googleapis.com = server:https://120.53.53.53/dns-query
 fonts.googleapis.com = server:https://120.53.53.53/dns-query
 fonts.gstatic.com = server:https://120.53.53.53/dns-query
+
+*.gstatic.com = server:https://120.53.53.53/dns-query
 # Google STUN
 stun.l.google.com = server:system
 stun?.l.google.com = server:system
