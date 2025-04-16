@@ -877,7 +877,6 @@ IP-CIDR,114.246.10.65/32,no-resolve
 *.snapplay.com = server:https://120.53.53.53/dns-query
 *.wanjiashow.com = server:https://120.53.53.53/dns-query
 # >> DNSPod
-*.dns.pub = server:https://120.53.53.53/dns-query
 *.dnsapi.cn = server:https://120.53.53.53/dns-query
 *.dnspod.cn = server:https://120.53.53.53/dns-query
 *.dnspod.com = server:https://120.53.53.53/dns-query
@@ -889,7 +888,6 @@ IP-CIDR,114.246.10.65/32,no-resolve
 *.dnsv3.com = server:https://120.53.53.53/dns-query
 *.dnsv4.com = server:https://120.53.53.53/dns-query
 *.dnsv5.com = server:https://120.53.53.53/dns-query
-*.doh.pub = server:https://120.53.53.53/dns-query
 # >> 枫树浏览器
 *.fsllq.com = server:https://120.53.53.53/dns-query
 *.fsllq.com.cn = server:https://120.53.53.53/dns-query
