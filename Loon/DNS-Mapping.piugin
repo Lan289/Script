@@ -2098,11 +2098,6 @@ IP-CIDR,114.246.10.65/32,no-resolve
 *.soovvi.com = server:system
 *.sunywo.com = server:system
 *.xunvision.com = server:system
-## >> 云视通
-*.cloudsee.net = server:system
-*.cloudseetech.com = server:system
-*.jovcloud.com = server:system
-*.jovision.cn = server:system
 ## > ABC (农业银行)
 *.95599.cn = server:system
 *.abchina.com = server:system
