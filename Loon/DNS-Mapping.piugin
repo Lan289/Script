@@ -64,9 +64,9 @@ www.gstatic.com = server:223.5.5.5
 stun.l.google.com = server:system
 stun?.l.google.com = server:system
 # Cloudflare
-cdn.cloudflare.net = 223.5.5.5
-cdnjs.cloudflare.com = 223.5.5.5
-ajax.cloudflare.com = 223.5.5.5
+cdn.cloudflare.net = server:223.5.5.5
+cdnjs.cloudflare.com = server:223.5.5.5
+ajax.cloudflare.com = server:223.5.5.5
 
 
 
