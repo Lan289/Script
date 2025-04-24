@@ -5,18 +5,28 @@
 #!system=iOS,iPadOS,macOS
 #!system_version=15
 #!loon_version=3.2.4(787)
-#!homepage=https://github.com/luestr/ProxyResource/blob/main/README.md
-#!date=2025-03-21 23:17:16
+#!homepage=https://raw.githubusercontent.com/Maasea/sgmodule/refs/heads/master/YouTube.Enhance.sgmodule
+#!date=2025-04-24 23:17:16
+
+
+[Argument]
+屏蔽上传按钮=switch,true,false,tag=屏蔽上传按钮, desc=屏蔽上传按钮
+屏蔽选段按钮=switch,true,false,tag=屏蔽选段按钮, desc=屏蔽选段按钮
+屏蔽Shorts按钮=switch,false,true,tag=屏蔽Shorts按钮, desc=屏蔽Shorts按钮
+字幕翻译语言=input,off,tag=字幕翻译语言, desc=字幕翻译语言
+歌词翻译语言=input,off,tag=歌词翻译语言, desc=歌词翻译语言
+脚本执行引擎=input,auto,tag=脚本执行引擎, desc=脚本执行引擎
+启用调试模式=switch,false,true,tag=启用调试模式, desc=启用调试模式
 
 [Rule]
-AND,((DOMAIN-SUFFIX,googlevideo.com),(PROTOCOL,QUIC)),REJECT
-AND,((DOMAIN-SUFFIX,youtubei.googleapis.com),(PROTOCOL,QUIC)),REJECT
+AND,((DOMAIN-SUFFIX,googlevideo.com),(PROTOCOL,UDP)),REJECT
+AND,((DOMAIN,youtubei.googleapis.com),(PROTOCOL,UDP)),REJECT
 
 [Rewrite]
-^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad mock-response-body data-type=text data="" status-code=502
+^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad mock-response-body data-type=text data="" status-code=200
 
 [Script]
-http-response ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch) script-path=https://kelee.one/Resource/Script/YouTube/YouTube_remove_ads/YouTube_remove_ads_response.js, requires-body=true, binary-body-mode=true, tag=YouTube去广告, argument="[{blockUpload},{blockImmersive},{captionLang},{lyricLang},{debug}]"
+http-response ^https:\/\/youtubei\.googleapis\.com\/(youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch))(\?(.*))?$ script-path=https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/youtube.response.js, requires-body=true, binary-body-mode=true, tag=youtube.response, argument="{"lyricLang":"{歌词翻译语言}","captionLang":"{字幕翻译语言}","blockUpload":{屏蔽上传按钮},"blockImmersive":{屏蔽选段按钮},"blockShorts":{屏蔽Shorts按钮},"debug":{启用调试模式}}"
 
 [MITM]
 hostname = *.googlevideo.com, youtubei.googleapis.com
