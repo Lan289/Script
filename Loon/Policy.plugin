@@ -11,6 +11,8 @@
 
 ##    DIRECT   ##
 DOMAIN,dns.alidns.com,DIRECT
+IP-CIDR,223.0.0.0/12,DIRECT,no-resolve
+IP-CIDR,120.52.0.0/14,DIRECT,no-resolve
 
 
 ##    PROXY   ##
@@ -18,11 +20,7 @@ DOMAIN,cloudflare-dns.com,PROXY
 DOMAIN,dns.cloudflare.com,PROXY
 DOMAIN,dns.google,PROXY
 DOMAIN,dns.quad9.net,PROXY
-IP-CIDR,1.1.1.1/32,PROXY
-IP-CIDR,9.9.9.9/32,PROXY
-IP-CIDR,8.8.8.8/32,PROXY
-IP-CIDR,94.140.14.14/32,PROXY
-IP-CIDR,208.67.222.222/32,PROXY
+
 
 
 ##    REJECT   ##
