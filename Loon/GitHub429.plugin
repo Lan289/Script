@@ -1,0 +1,9 @@
+#!name=github429
+#!desc=解决github更新资源429问题
+
+[Rewrite]
+^https:\/\/(raw|gist)\.githubusercontent\.com\/ header-replace Accept-Language en-us
+
+
+[Mitm]
+hostname = raw.githubusercontent.com,gist.githubusercontent.com
