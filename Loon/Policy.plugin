@@ -5,12 +5,4 @@
 
 #!date = 2020-04-26 16:19:28
 
-[Argument]
-arg1 = switch,true,tag=reject
 
-
-[Rule]
-
-[Remote Rule]
-
-https://ruleset.skk.moe/List/domainset/reject.conf, policy=REJECT, tag=reject, enabled={arg1}
