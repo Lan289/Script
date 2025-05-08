@@ -5,23 +5,12 @@
 
 #!date = 2020-04-26 16:19:28
 
+[Argument]
+arg1 = switch,true,tag=reject
+
 
 [Rule]
 
+[Remote Rule]
 
-##    DIRECT   ##
-DOMAIN,dns.alidns.com,DIRECT
-IP-CIDR,223.0.0.0/12,DIRECT,no-resolve
-IP-CIDR,120.52.0.0/14,DIRECT,no-resolve
-
-
-##    PROXY   ##
-DOMAIN,cloudflare-dns.com,PROXY
-DOMAIN,dns.cloudflare.com,PROXY
-DOMAIN,dns.google,PROXY
-DOMAIN,dns.quad9.net,PROXY
-
-
-
-##    REJECT   ##
-DOMAIN-SUFFIX,*.biliapi.xyz,REJECT
+https://ruleset.skk.moe/List/domainset/reject.conf, policy=REJECT, tag=reject, enabled={arg1}
