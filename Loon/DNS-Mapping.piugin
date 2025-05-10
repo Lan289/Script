@@ -1739,6 +1739,55 @@ IP-CIDR,114.246.10.65/32,no-resolve
 *.elita.work = server:https://223.6.6.6/dns-query
 *.emas-poc.com = server:https://223.6.6.6/dns-query
 *.etagri.com = server:https://223.6.6.6/dns-query
+*.aliyunddos0024.com = server:https://223.6.6.6/dns-query
+*.aliyunedu.net = server:https://223.6.6.6/dns-query
+*.aliyunga.com = server:https://223.6.6.6/dns-query
+*.gomcloud.cn = server:https://223.6.6.6/dns-query
+*.gts.work = server:https://223.6.6.6/dns-query
+*.gxic.club = server:https://223.6.6.6/dns-query
+*.hichina.com = server:https://223.6.6.6/dns-query
+*.ialicdn.com = server:https://223.6.6.6/dns-query
+*.ica-alliance.org = server:https://223.6.6.6/dns-query
+*.jaeapp.com = server:https://223.6.6.6/dns-query
+*.jaecdn.com = server:https://223.6.6.6/dns-query
+*.juwuxian.com = server:https://223.6.6.6/dns-query
+*.linkdesign.tech = server:https://223.6.6.6/dns-query
+*.longliugame.cn = server:https://223.6.6.6/dns-query
+*.mindb.cn = server:https://223.6.6.6/dns-query
+*.mindsphere-in.cn = server:https://223.6.6.6/dns-query
+*.mxhichina.com = server:https://223.6.6.6/dns-query
+*.myalicdn.com = server:https://223.6.6.6/dns-query
+*.myalirtc.com = server:https://223.6.6.6/dns-query
+*.mynet.cn = server:https://223.6.6.6/dns-query
+*.nic.xin = server:https://223.6.6.6/dns-query
+*.phpwind.com = server:https://223.6.6.6/dns-query
+*.phpwind.net = server:https://223.6.6.6/dns-query
+*.pickpikka.com = server:https://223.6.6.6/dns-query
+*.rdcnzz.com = server:https://223.6.6.6/dns-query
+*.rocketmq.cloud = server:https://223.6.6.6/dns-query
+*.shujuapi.com = server:https://223.6.6.6/dns-query
+*.sparenode.com = server:https://223.6.6.6/dns-query
+*.supet.com = server:https://223.6.6.6/dns-query
+*.tianchi.com = server:https://223.6.6.6/dns-query
+*.tsm-yuntrust.com = server:https://223.6.6.6/dns-query
+*.url7.me = server:https://223.6.6.6/dns-query
+*.uueasy.com = server:https://223.6.6.6/dns-query
+*.workbenchapi.com = server:https://223.6.6.6/dns-query
+*.www.net.cn = server:https://223.6.6.6/dns-query
+*.yunduncc.com = server:https://223.6.6.6/dns-query
+*.yunqi.org = server:https://223.6.6.6/dns-query
+*.zhinvnetwork.com = server:https://223.6.6.6/dns-query
+##### aliyun
+*.aliyunddos1*.com = server:https://223.6.6.6/dns-query
+*.aliyunga*.com = server:https://223.6.6.6/dns-query
+*.gfnormal0*.com = server:https://223.6.6.6/dns-query
+*.gfvip0*.com = server:https://223.6.6.6/dns-query
+*.scdn*.com = server:https://223.6.6.6/dns-query
+*.gtm-a*b*.com = server:https://223.6.6.6/dns-query
+*.kunlun*.com = server:https://223.6.6.6/dns-query
+*.ydvip00a*.com = server:https://223.6.6.6/dns-query
+
+
 
 ####> 百度 <#################################
 *.91.com = server:180.76.76.76
