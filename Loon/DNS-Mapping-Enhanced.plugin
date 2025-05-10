@@ -5975,3 +5975,5 @@ upos-bstar-mirrorakam.akamaized.net = server:https://223.6.6.6/dns-query
 *.daigege.com = server:https://223.6.6.6/dns-query
 *.dajiabao.com = server:https://223.6.6.6/dns-query
 *.dajiadu8.com = server:https://223.6.6.6/dns-query
+*.qiezibenpao.com = server:https://223.6.6.6/dns-query
+
