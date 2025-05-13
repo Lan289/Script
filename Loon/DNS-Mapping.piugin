@@ -51,23 +51,23 @@ alt8-mtalk.google.com = 3.3.3.3
 # --- CUSTOM DNS ---
 # > Modify Contents
 # Google CDN
-blog.google = server:119.29.29.29
-googletraveladservices.com = server:119.29.29.29
-dl.google.com = server:119.29.29.29
-dl.l.google.com = server:119.29.29.29
-clientservices.googleapis.com = server:119.29.29.29
-update.googleapis.com = server:119.29.29.29
-translate.googleapis.com = server:119.29.29.29
-fonts.googleapis.com = server:119.29.29.29
-fonts.gstatic.com = server:119.29.29.29
-www.gstatic.com = server:119.29.29.29
+blog.google = server:223.5.5.5
+googletraveladservices.com = server:223.5.5.5
+dl.google.com = server:223.5.5.5
+dl.l.google.com = server:223.5.5.5
+clientservices.googleapis.com = server:223.5.5.5
+update.googleapis.com = server:223.5.5.5
+translate.googleapis.com = server:223.5.5.5
+fonts.googleapis.com = server:223.5.5.5
+fonts.gstatic.com = server:223.5.5.5
+www.gstatic.com = server:223.5.5.5
 # Google STUN
 stun.l.google.com = server:system
 stun?.l.google.com = server:system
 # Cloudflare
-cdn.cloudflare.net = server:119.29.29.29
-cdnjs.cloudflare.com = server:119.29.29.29
-ajax.cloudflare.com = server:119.29.29.29
+cdn.cloudflare.net = server:223.5.5.5
+cdnjs.cloudflare.com = server:223.5.5.5
+ajax.cloudflare.com = server:223.5.5.5
 
 
 
