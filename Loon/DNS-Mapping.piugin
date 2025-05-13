@@ -423,35 +423,7 @@ ajax.cloudflare.com = server:223.5.5.5
 *.xiguashipin.net = server:180.184.1.1
 *.xiguavideo.cn = server:180.184.1.1
 *.xiguavideo.net = server:180.184.1.1
-IP-CIDR,114.246.10.65/32,no-resolve
-## >> 星图
-*.betastar.cn = server:180.184.1.1
-*.kolbuyer.cn = server:180.184.1.1
-## >> 阳关宽频网
-*.365yg.com = server:180.184.1.1
-## >> 朝夕光年
-*.dailygn.com = server:180.184.1.1
-*.nvsgames.cn = server:180.184.1.1
-# >> 沐瞳科技
-*.mobilelegends.com = server:180.184.1.1
-*.moonton.com = server:180.184.1.1
-## > 自如
-*.ziroom.com = server:180.184.1.1
-*.ziroomapartment.com = server:180.184.1.1
-## > 知音漫客
-*.51kanmanhua.com = server:180.184.1.1
-*.mkdata.top = server:180.184.1.1
-*.mkzcdn.com = server:180.184.1.1
-*.xiaomingtaiji.* = server:180.184.1.1
-*.xiaoshuohui.com.cn = server:180.184.1.1
-*.xiaoshuohui.net = server:180.184.1.1
-*.zymk.cn = server:180.184.1.1
-*.zymkcdn.com = server:180.184.1.1
-## >> 漫客栈
-*.mkpush.com = server:180.184.1.1
-*.mkzhan.* = server:180.184.1.1
-## > Teamviewer
-*.teamviewer.com = server:180.184.1.1
+
 
 ######>> 腾讯 << ##########################
 *.1700.cn = server:https://120.53.53.53/dns-query
