@@ -1187,7 +1187,7 @@ fhnfile.oss-cn-shenzhen.aliyuncs.com = server:https://120.53.53.53/dns-query
 ## > 彩云科技
 *.caiyunai.com = server:https://120.53.53.53/dns-query
 *.caiyunapp.com = server:https://120.53.53.53/dns-query
-## > CAS (中国科学院文献情报中心)
+## > CAS (科学院文献情报中心)
 #?*.acas.ac.cn = server:https://120.53.53.53/dns-query
 #?*.agklab.cn = server:https://120.53.53.53/dns-query
 *.berlin8.org = server:https://120.53.53.53/dns-query
@@ -1265,20 +1265,15 @@ fhnfile.oss-cn-shenzhen.aliyuncs.com = server:https://120.53.53.53/dns-query
 #?*.zggbdszt.net.cn = server:https://120.53.53.53/dns-query
 #?*.zygbdszt.net.cn = server:https://120.53.53.53/dns-query
 #?*.xn--fiq53l6wcx3kp9bc7joo6apn8a.cn = server:https://120.53.53.53/dns-query
-#?*.中国广播电视总台.cn = server:https://120.53.53.53/dns-query
 #?*.xn--fiq53l90et9fpncc7joo6apn8a.cn = server:https://120.53.53.53/dns-query
-#?*.中央广播电视总台.cn = server:https://120.53.53.53/dns-query
 *.xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s = server:https://120.53.53.53/dns-query
-*.中国广播电视总台.中国 = server:https://120.53.53.53/dns-query
 #?*.xn--kprv4ewxfr9cpxcc7joo6apn8a.cn = server:https://120.53.53.53/dns-query
-#?*.国家广播电视总台.cn = server:https://120.53.53.53/dns-query
 *.xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s = server:https://120.53.53.53/dns-query
-*.国家广播电视总台.中国 = server:https://120.53.53.53/dns-query
-## > CETV (中国教育电视台)
+## > CETV (教育电视台)
 #?*.centv.cn = server:https://120.53.53.53/dns-query
 #?*.centv.net.cn = server:https://120.53.53.53/dns-query
 #?*.cetv.cn = server:https://120.53.53.53/dns-query
-## > 中国新闻网
+## > 新闻网
 *.chinanews.com = server:https://120.53.53.53/dns-query
 #?*.chinanews.com.cn = server:https://120.53.53.53/dns-query
 #?*.cns.com.cn = server:https://120.53.53.53/dns-query
@@ -1370,7 +1365,7 @@ fhnfile.oss-cn-shenzhen.aliyuncs.com = server:https://120.53.53.53/dns-query
 #?*.vdnplus.cn = server:https://120.53.53.53/dns-query
 *.vdnplus.com = server:https://120.53.53.53/dns-query
 *.vdnplus.net = server:https://120.53.53.53/dns-query
-## > CNKI (中国知网)
+## > CNKI (知网)
 #?*.bbf.org.cn = server:https://120.53.53.53/dns-query
 *.bjsbnet.com = server:https://120.53.53.53/dns-query
 #?*.chndoi.cn = server:https://120.53.53.53/dns-query
@@ -6040,16 +6035,16 @@ netease.ugcvideoss.ourdvs.com = server:https://120.53.53.53/dns-query
 *.zhimg.com = server:https://120.53.53.53/dns-query
 ## > 智慧树
 *.zhihuishu.com = server:https://120.53.53.53/dns-query
-## > 中国搜索
+## > 中搜索
 *.chinaso.com = server:https://120.53.53.53/dns-query
 #?*.pg0.cn = server:https://120.53.53.53/dns-query
-## > 中国石化
+## > 中石化
 *.sinopec-usa.com = server:https://120.53.53.53/dns-query
 *.sinopec.com = server:https://120.53.53.53/dns-query
 *.sinopecgroup.com = server:https://120.53.53.53/dns-query
 #?*.sinopecnews.com.cn = server:https://120.53.53.53/dns-query
 *.sinopecsales.com = server:https://120.53.53.53/dns-query
-## > 中国太平
+## > 太平
 *.95589.com = server:https://120.53.53.53/dns-query
 *.cntaiping.com = server:https://120.53.53.53/dns-query
 *.cntaiping.com.hk = server:https://120.53.53.53/dns-query
