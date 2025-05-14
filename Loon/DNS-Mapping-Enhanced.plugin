@@ -625,6 +625,8 @@ fhnfile.oss-cn-shenzhen.aliyuncs.com = server:https://120.53.53.53/dns-query
 *.zhuanspirit.com = server:https://120.53.53.53/dns-query
 *.zhuanzhuan.com = server:https://120.53.53.53/dns-query
 #?*.zhuan-zhuan.cn = server:https://120.53.53.53/dns-query
+*.zhuanstatic.com = server:https://120.53.53.53/dns-query
+*.zhaoliangji.com = server:https://120.53.53.53/dns-query
 ## > 8btc
 *.8btc.com = server:https://120.53.53.53/dns-query
 *.bystack.com = server:https://120.53.53.53/dns-query
