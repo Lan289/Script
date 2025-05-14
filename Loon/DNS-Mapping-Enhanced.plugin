@@ -66,7 +66,7 @@ fhnfile.oss-cn-shenzhen.aliyuncs.com = server:https://120.53.53.53/dns-query
 *.123242.com = server:https://120.53.53.53/dns-query
 *.123245.com = server:https://120.53.53.53/dns-query
 *.123254.com = server:https://120.53.53.53/dns-query
-*.123294.corn = server:https://120.53.53.53/dns-query
+*.123294.com = server:https://120.53.53.53/dns-query
 *.123624.com = server:https://120.53.53.53/dns-query
 *.123635.com = server:https://120.53.53.53/dns-query
 *.123641.com = server:https://120.53.53.53/dns-query
@@ -75,7 +75,7 @@ fhnfile.oss-cn-shenzhen.aliyuncs.com = server:https://120.53.53.53/dns-query
 *.123842.com = server:https://120.53.53.53/dns-query
 *.123860.com = server:https://120.53.53.53/dns-query
 *.123865.com = server:https://120.53.53.53/dns-query
-*.123912.corm = server:https://120.53.53.53/dns-query
+*.123912.com = server:https://120.53.53.53/dns-query
 *.123952.com = server:https://120.53.53.53/dns-query
 *.123957.com = server:https://120.53.53.53/dns-query
 #?*.123pan.cn = server:https://120.53.53.53/dns-query
@@ -841,14 +841,6 @@ fhnfile.oss-cn-shenzhen.aliyuncs.com = server:https://120.53.53.53/dns-query
 *.baofeng.net = server:https://120.53.53.53/dns-query
 *.baofengtv.com = server:https://120.53.53.53/dns-query
 *.bfimg.com = server:https://120.53.53.53/dns-query
-*.暴风.公司 = server:https://120.53.53.53/dns-query
-*.暴风.网络 = server:https://120.53.53.53/dns-query
-*.暴风一.中国 = server:https://120.53.53.53/dns-query
-*.暴风在线.中国 = server:https://120.53.53.53/dns-query
-*.暴风影音.公司 = server:https://120.53.53.53/dns-query
-*.暴风影音.网络 = server:https://120.53.53.53/dns-query
-*.暴风影音在线.中国 = server:https://120.53.53.53/dns-query
-*.暴风盒子.中国 = server:https://120.53.53.53/dns-query
 #?*.bfshow.cn = server:https://120.53.53.53/dns-query
 *.bjtndao.org = server:https://120.53.53.53/dns-query
 #?*.stormshow.cn = server:https://120.53.53.53/dns-query
@@ -3758,9 +3750,6 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com = server:https://120.53.53.53/dns-quer
 #?*.xhwhouse.cn = server:https://120.53.53.53/dns-query
 *.xhwhouse.com = server:https://120.53.53.53/dns-query
 *.yiqisooimg.com = server:https://120.53.53.53/dns-query
-*.房产电商.com = server:https://120.53.53.53/dns-query
-*.游站.com = server:https://120.53.53.53/dns-query
-*.游站.net = server:https://120.53.53.53/dns-query
 ## > Lenovo
 *.blurdev.com = server:https://120.53.53.53/dns-query
 *.cftsupport.com = server:https://120.53.53.53/dns-query
@@ -3781,8 +3770,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com = server:https://120.53.53.53/dns-quer
 *.thinkcloudlab.com = server:https://120.53.53.53/dns-query
 *.thinkpad.com = server:https://120.53.53.53/dns-query
 #?*.zhiliaowenda.com.cn = server:https://120.53.53.53/dns-query
-#?*.联想职教集团.cn = server:https://120.53.53.53/dns-query
-*.联想职教集团.com = server:https://120.53.53.53/dns-query
+
 ## >> 神奇工场
 *.fm365.com = server:https://120.53.53.53/dns-query
 *.lenauth.com = server:https://120.53.53.53/dns-query
@@ -5239,10 +5227,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com = server:https://120.53.53.53/dns-quer
 *.netease-inc.com = server:https://120.53.53.53/dns-query
 *.netease.com = server:https://120.53.53.53/dns-query
 ## >> 网易大话西游
-#?*.大话西游.cn = server:https://120.53.53.53/dns-query
-*.大话西游.com = server:https://120.53.53.53/dns-query
-*.大话西游.net = server:https://120.53.53.53/dns-query
-*.大话西游.中国 = server:https://120.53.53.53/dns-query
+
 ## >> 网易定位
 *.126.link = server:https://120.53.53.53/dns-query
 *.163.link = server:https://120.53.53.53/dns-query
@@ -5254,10 +5239,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com = server:https://120.53.53.53/dns-quer
 *.163yun.com = server:https://120.53.53.53/dns-query
 #?*.playfab.cn = server:https://120.53.53.53/dns-query
 ## >> 网易飞飞
-#?*.飞飞.cn = server:https://120.53.53.53/dns-query
-*.飞飞.com = server:https://120.53.53.53/dns-query
-*.飞飞.net = server:https://120.53.53.53/dns-query
-*.飞飞.中国 = server:https://120.53.53.53/dns-query
+
 ## >> 网易互客
 *.hukeck.com = server:https://120.53.53.53/dns-query
 *.hukecs.com = server:https://120.53.53.53/dns-query
@@ -5275,10 +5257,7 @@ hellowebfonts.oss-cn-beijing.aliyuncs.com = server:https://120.53.53.53/dns-quer
 *.kada.com = server:https://120.53.53.53/dns-query
 *.kada163.com = server:https://120.53.53.53/dns-query
 ## >> 网易梦幻西游
-#?*.梦幻西游.cn = server:https://120.53.53.53/dns-query
-*.梦幻西游.com = server:https://120.53.53.53/dns-query
-*.梦幻西游.net = server:https://120.53.53.53/dns-query
-*.梦幻西游.中国 = server:https://120.53.53.53/dns-query
+
 ## >> 网易七鱼
 *.qiyukf.com = server:https://120.53.53.53/dns-query
 *.qiyukf.net = server:https://120.53.53.53/dns-query
@@ -5463,12 +5442,6 @@ netease.ugcvideoss.ourdvs.com = server:https://120.53.53.53/dns-query
 *.xiaogouds.com = server:https://120.53.53.53/dns-query
 *.xiaogouzhineng.com = server:https://120.53.53.53/dns-query
 *.zhongyangweixiu.com = server:https://120.53.53.53/dns-query
-#?*.小狗电器.cn = server:https://120.53.53.53/dns-query
-*.小狗电器.com = server:https://120.53.53.53/dns-query
-*.小狗电器.net = server:https://120.53.53.53/dns-query
-*.小狗电器.中国 = server:https://120.53.53.53/dns-query
-*.小狗电器.公司 = server:https://120.53.53.53/dns-query
-*.小狗电器.网络 = server:https://120.53.53.53/dns-query
 ## 💊 小米
 ## > 小米
 #?*.aleenote.cn = server:https://120.53.53.53/dns-query
@@ -5485,7 +5458,6 @@ netease.ugcvideoss.ourdvs.com = server:https://120.53.53.53/dns-query
 *.mgslb.com = server:https://120.53.53.53/dns-query
 *.mgslb.net = server:https://120.53.53.53/dns-query
 *.mgslb.org = server:https://120.53.53.53/dns-query
-*.mi.中国 = server:https://120.53.53.53/dns-query
 #?*.mi.cn = server:https://120.53.53.53/dns-query
 *.mi.com = server:https://120.53.53.53/dns-query
 *.mi0.cc = server:https://120.53.53.53/dns-query
@@ -5503,7 +5475,6 @@ netease.ugcvideoss.ourdvs.com = server:https://120.53.53.53/dns-query
 *.xiaomisa.net = server:https://120.53.53.53/dns-query
 *.xiaomisa.org = server:https://120.53.53.53/dns-query
 *.zhutidasai.com = server:https://120.53.53.53/dns-query
-*.小米科技有限责任公司.中国 = server:https://120.53.53.53/dns-query
 ## >> MIUI米柚
 #?*.miui.cn = server:https://120.53.53.53/dns-query
 *.miui.com = server:https://120.53.53.53/dns-query
