@@ -2492,38 +2492,5 @@ upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76
 *.airchina.com.cn = server:system
 *.airchinacargo.com = server:system
 
-## > 互联网络信息中心
-*.cfid-lab.cn = server:system
-*.cfidlab.cn = server:system
-*.cilab.cn = server:system
-*.v6pilot.cn = server:system
-*.6pilot.cn = server:system
-*.snsroot.cn = server:system
-*.cyberspace.cn = server:system
-*.myid.cn = server:system
-*.djt.org.cn = server:system
-*.dnslab.cn = server:system
-*.dnswood.cn = server:system
-*.nanel.cn = server:system
-*.apira.org = server:system
-*.cdns.cn = server:system
-*.sdns.cn = server:system
-*.apirc.org = server:system
-*.apac.cn = server:system
-*.apac.org.cn = server:system
-*.internet.cn = server:system
-*.cnnicresearch.cn = server:system
-*.cnnic.ac.cn = server:system
-*.cnnic.net = server:system
-*.cnnic.cn = server:system
-*.cnnic.org.cn = server:system
-*.cnnic.com.cn = server:system
-*.cnnic.net.cn = server:system
-*.dns-cert.cn = server:system
-*.dnscert.cn = server:system
-*.cnidp.cn = server:system
-*.idpcn.cn = server:system
-*.idatacn.cn = server:system
-*.surdata.cn = server:system
-*.cdnc.org = server:system
+
 
