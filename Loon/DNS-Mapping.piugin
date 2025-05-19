@@ -11,7 +11,7 @@
 [Host]
 
 ## CN域名
-*.cn = server:system
+*.cn = server:223.5.5.5
 
 # 小红书
 *.fengkongcloud.com = server:system
