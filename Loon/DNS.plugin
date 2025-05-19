@@ -58,6 +58,146 @@ fonts.gstatic.com = server:119.29.29.29
 stun.l.google.com = server:system
 stun?.l.google.com = server:system
 
+# > Google CN
+*.265.com = server:119.29.29.29
+*.2mdn-cn.net = server:119.29.29.29
+*.2mdn.net = server:119.29.29.29
+*.admob-cn.com = server:119.29.29.29
+*.adservice.google.com = server:119.29.29.29
+*.app-analytics-services.com = server:119.29.29.29
+*.app-measurement-cn.com = server:119.29.29.29
+*.app-measurement.com = server:119.29.29.29
+*.apps5.oingo.com = server:119.29.29.29
+*.avail.googleflights.net = server:119.29.29.29
+*.beacons.gcp.gvt2.com = server:119.29.29.29
+*.beacons.gvt2.com = server:119.29.29.29
+*.beacons2.gvt2.com = server:119.29.29.29
+*.beacons3.gvt2.com = server:119.29.29.29
+*.c.admob.com = server:119.29.29.29
+*.c.android.clients.google.com = server:119.29.29.29
+*.cache-management-prod.google.com = server:119.29.29.29
+*.cache.pack.google.com = server:119.29.29.29
+*.checkin.gstatic.com = server:119.29.29.29
+*.clickserve.cc-dt.com = server:119.29.29.29
+*.clickserve.dartsearch.net = server:119.29.29.29
+*.clickserver.googleads.com = server:119.29.29.29
+*.clientservices.googleapis.com = server:119.29.29.29
+*.cn.widevine.com = server:119.29.29.29
+*.cnappinstall.googleadapis.com = server:119.29.29.29
+*.connectivitycheck.gstatic.com = server:119.29.29.29
+*.content.googleadapis.com = server:119.29.29.29
+*.crashlyticsreports-pa.googleapis.com = server:119.29.29.29
+*.crl.pki.goog = server:119.29.29.29
+*.csi.gstatic.com = server:119.29.29.29
+*.dartsearch-cn.net = server:119.29.29.29
+*.dg-meta.video.google.com = server:119.29.29.29
+*.dl.google.com = server:119.29.29.29
+*.dl.l.google.com = server:119.29.29.29
+*.doubleclick-cn.net = server:119.29.29.29
+*.doubleclick.net = server:119.29.29.29
+*.download.mlcc.google.com = server:119.29.29.29
+*.download.qatp1.net = server:119.29.29.29
+*.download.tensorflow.google.com = server:119.29.29.29
+*.emmapplecodevice.googleapis.com = server:119.29.29.29
+*.firebase-settings.crashlytics.com = server:119.29.29.29
+*.fontfiles.googleapis.com = server:119.29.29.29
+*.fonts.googleapis.com = server:119.29.29.29
+*.fonts.gstatic.com = server:119.29.29.29
+*.g0.gstatic.com = server:119.29.29.29
+*.g1.gstatic.com = server:119.29.29.29
+*.g2.gstatic.com = server:119.29.29.29
+*.g3.gstatic.com = server:119.29.29.29
+*.go.corp.google.com = server:119.29.29.29
+*.gonglchuangl.net = server:119.29.29.29
+*.gongyichuangyi.net = server:119.29.29.29
+*.google-analytics-cn.com = server:119.29.29.29
+*.google-analytics.com = server:119.29.29.29
+*.googleadservices-cn.com = server:119.29.29.29
+*.googleadservices.com = server:119.29.29.29
+*.googleanalytics.com = server:119.29.29.29
+*.googleapis-cn.com = server:119.29.29.29
+*.googleapps-cn.com = server:119.29.29.29
+*.googleflights-cn.net = server:119.29.29.29
+*.googleoptimize-cn.com = server:119.29.29.29
+*.googleoptimize.com = server:119.29.29.29
+*.googlesyndication-cn.com = server:119.29.29.29
+*.googlesyndication.com = server:119.29.29.29
+*.googletagmanager-cn.com = server:119.29.29.29
+*.googletagmanager.com = server:119.29.29.29
+*.googletagservices-cn.com = server:119.29.29.29
+*.googletagservices.com = server:119.29.29.29
+*.googletraveladservices-cn.com = server:119.29.29.29
+*.googletraveladservices.com = server:119.29.29.29
+*.googlevads-cn.com = server:119.29.29.29
+*.gstatic-cn.com = server:119.29.29.29
+*.gstaticadssl.l.google.com = server:119.29.29.29
+*.gtm.oasisfeng.com = server:119.29.29.29
+*.gvt1-cn.com = server:119.29.29.29
+*.gvt2-cn.com = server:119.29.29.29
+*.imasdk.googleapis.com = server:119.29.29.29
+*.l2-uberproxy.corp.google.com = server:119.29.29.29
+*.logger-dev.corp.google.com = server:119.29.29.29
+*.logger.corp.google.com = server:119.29.29.29
+*.login.corp.google.com = server:119.29.29.29
+*.monitoring.qpdp1.net = server:119.29.29.29
+*.ocsp.pki.goog = server:119.29.29.29
+*.pagead-googlehosted.l.google.com = server:119.29.29.29
+*.performanceparameters.googleapis.com = server:119.29.29.29
+*.pki-goog.l.google.com = server:119.29.29.29
+*.prod-controlbe.floonet.goog = server:119.29.29.29
+*.prod-databe.floonet.goog = server:119.29.29.29
+*.prod.databe.floonet.goog = server:119.29.29.29
+*.proxyconfig.corp.google.com = server:119.29.29.29
+*.qagpublic.qatp1.net = server:119.29.29.29
+*.qgadmin.qcpp1.net = server:119.29.29.29
+*.qiao-cn.com = server:119.29.29.29
+*.qpx.googleflights.net = server:119.29.29.29
+*.qualysapi.qatp1.net = server:119.29.29.29
+*.qualysguard.qpdp1.net = server:119.29.29.29
+*.r.cert.corp.google.com = server:119.29.29.29
+*.rapture-prod.corp.google.com = server:119.29.29.29
+*.recaptcha-cn.net = server:119.29.29.29
+*.recaptcha.net = server:119.29.29.29
+*.redirector.bdn.dev = server:119.29.29.29
+*.redirector.c.chat.google.com = server:119.29.29.29
+*.redirector.c.mail.google.com = server:119.29.29.29
+*.redirector.c.pack.google.com = server:119.29.29.29
+*.redirector.c.play.google.com = server:119.29.29.29
+*.redirector.c.youtubeeducation.com = server:119.29.29.29
+*.redirector.gcpcdn.gvt1.com = server:119.29.29.29
+*.redirector.gvt1.com = server:119.29.29.29
+*.redirector.offline-maps.gvt1.com = server:119.29.29.29
+*.redirector.snap.gvt1.com = server:119.29.29.29
+*.redirector.xn--ngstr-lra8j.com = server:119.29.29.29
+*.safeBrowse-cache.google.com = server:119.29.29.29
+*.safeBrowse.googleapis.com = server:119.29.29.29
+*.scanservice1.qcpp1.net = server:119.29.29.29
+*.service.urchin.com = server:119.29.29.29
+*.ssl-google-analytics.l.google.com = server:119.29.29.29
+*.ssl.gstatic.com = server:119.29.29.29
+*.sslredirect.corp.google.com = server:119.29.29.29
+*.staging-controlbe.floonet.goog = server:119.29.29.29
+*.staging-databe.floonet.goog = server:119.29.29.29
+*.staging.databe.floonet.goog = server:119.29.29.29
+*.streaming-uberproxy-rotation.corp.google.com = server:119.29.29.29
+*.streaming-uberproxy.corp.google.com = server:119.29.29.29
+*.sup-ssh-relay.corp.google.com = server:119.29.29.29
+*.sup-ssh-relay2.corp.google.com = server:119.29.29.29
+*.sup.corp.google.com = server:119.29.29.29
+*.sup.l.google.com = server:119.29.29.29
+*.tac.googleapis.com = server:119.29.29.29
+*.test.gbugs-qa.chromium.org = server:119.29.29.29
+*.tools.google.com = server:119.29.29.29
+*.tools.l.google.com = server:119.29.29.29
+*.uberproxy-debug4.corp.google.com = server:119.29.29.29
+*.uberproxy.corp.google.com = server:119.29.29.29
+*.uberproxy6.corp.google.com = server:119.29.29.29
+*.update.crashlytics.com = server:119.29.29.29
+*.update.googleapis.com = server:119.29.29.29
+*.wear.googleapis.com = server:119.29.29.29
+*.www-google-analytics.l.google.com = server:119.29.29.29
+*.www-googletagmanager.l.google.com = server:119.29.29.29
+
 # > Router Admin Panel
 # Ubiquiti Unifi Network App
 *.id.ui.direct = server:system
@@ -504,9 +644,14 @@ hotspot.cslwifi.com = server:system
 # >> 汽水音乐 <<
 *.qishui.com = server:180.184.1.1
 
+##
+*.deepseek.com = server:180.184.1.1
 *.vegslb.com = server:180.184.1.1
 *.siomxity.com = server:180.184.1.1
 *.tianwenca.com = server:180.184.1.1
+*.sealaly.net = server:180.184.1.1
+*.bytemastatic.com = server:180.184.1.1
+
 
 ##############> 腾讯 <###############
 ## > 腾讯
@@ -1843,7 +1988,8 @@ PROCESS-NAME,com.taobao.taobao
 ## >> 吱声网
 *.zhisheng.com = server:https://223.5.5.5/dns-query
 
-
+##
+*.alibabachengdun.com = server:https://223.5.5.5/dns-query
 
 ##############> BaiDu 百度 <###############
 ## > 百度
