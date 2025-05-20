@@ -1187,7 +1187,8 @@ hotspot.cslwifi.com = server:system
 *.xxsy.com = server:https://120.53.53.53/dns-query
 *.xxsy.net = server:https://120.53.53.53/dns-query
 
-
+##
+*.servicewechat.com = server:https://120.53.53.53/dns-query
 
 ##############> Alibaba <###############
 
