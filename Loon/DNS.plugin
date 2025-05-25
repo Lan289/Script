@@ -1,7 +1,7 @@
 
 #!name= DNS Mapping
 #!desc= 域名分流解析。
-#!category: 数据来源: LM-firefly VirgilClyne
+# 数据来源: LM-firefly VirgilClyne
 #!author= 藤原とうふ店(自家用)
 #!icon=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Final.png
 #!category=DNS
