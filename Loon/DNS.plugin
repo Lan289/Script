@@ -506,13 +506,11 @@ hotspot.cslwifi.com = server:system
 *.qishui.com = server:180.184.1.1
 
 ##
+
 *.deepseek.com = server:180.184.1.1
-*.vegslb.com = server:180.184.1.1
-*.siomxity.com = server:180.184.1.1
-*.siomxity.net = server:180.184.1.1
-*.tianwenca.com = server:180.184.1.1
-*.sealaly.net = server:180.184.1.1
 *.bytemastatic.com = server:180.184.1.1
+*.tianwenca.com = server:180.184.1.1
+
 
 
 ######> 腾讯 
