@@ -1,6 +1,7 @@
 #!name=跳过代理检测
 #!desc=跳过部分应用的代理检测
 #!category= https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/refs/heads/main/plugin/General.plugin
+#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/doraemon/Doraemon-1096.png
 
 [General]
 
