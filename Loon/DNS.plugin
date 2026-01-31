@@ -849,6 +849,7 @@ hotspot.cslwifi.com = server:system
 *.tefscloud.com = server:https://120.53.53.53/dns-query
 *.tefscloud.net = server:https://120.53.53.53/dns-query
 *.tenant-zone-dev.com = server:https://120.53.53.53/dns-query
+*.tencent-cloud.cn = server:https://120.53.53.53/dns-query
 *.tencent-cloud.com = server:https://120.53.53.53/dns-query
 *.tencent-cloud.net = server:https://120.53.53.53/dns-query
 *.tencentbyod.com = server:https://120.53.53.53/dns-query
