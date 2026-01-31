@@ -1,0 +1,37 @@
+#!name=Spotify
+#!desc=解锁premium+歌词翻译,(1)注意节点地区可用性,(2)登录后再打开脚本,重启app等待脚本生效.
+#!category: 解锁premium:app2smile,原链接：https://raw.githubusercontent.com/app2smile/rules/master/plugin/spotify.plugin 
+#!icon = https://raw.githubusercontent.com/Aoyt520/jiumeiquanX/master/quanX/Spotify.png
+
+
+#!system = iOS,iPadOS,macOS
+#!date = 2024-10-31 12:14:48
+#!version = 1.9.9
+#!system_version = 15
+
+
+[Mitm]
+hostname = api.spotify.com, spclient.wg.spotify.com
+
+[Rewrite]
+^https:\/\/spclient\.wg\.spotify\.com\/user-customization-service\/v1\/customize$ header-del if-none-match
+
+[Script]
+http-request ^https:\/\/spclient\.wg\.spotify\.com\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/ script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-json.js, timeout=10, tag=spotifyJson
+http-response ^https:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$ script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-proto.js, requires-body=true, binary-body-mode=true, timeout=10, tag=spotifyProto
+
+
+
+http-response ^https?:\/\/api\.spotify\.com\/v1\/tracks\? script-path=https://kelee.one/Resource/JavaScript/Spotify/Spotify_response.js, requires-body=true, tag=跟踪响应·JSON
+
+http-request ^https?:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/(.+)\?(.*)format=json script-path=https://kelee.one/Resource/JavaScript/Spotify/Spotify_request.js, requires-body=true, tag=歌词请求·JSON
+
+http-request ^https?:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/\w+\?(.*) script-path=https://kelee.one/Resource/JavaScript/Spotify/Spotify_request.js, requires-body=true, binary-body-mode=true, tag=歌词请求·Proto
+
+http-response ^https?:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/(.+)\?(.*)format=json(.*)subtype=Translate script-path=https://kelee.one/Resource/JavaScript/Spotify/Translate_response.js, requires-body=true, tag=翻译歌词响应·JSON
+
+http-response ^https?:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/\w+\?(.*)subtype=Translate script-path=https://kelee.one/Resource/JavaScript/Spotify/Translate_response.js, requires-body=true, binary-body-mode=true, tag=翻译歌词响应·Proto
+
+http-response ^https?:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/(.+)\?(.*)format=json(.*)subtype=External script-path=https://kelee.one/Resource/JavaScript/Spotify/External_Lyrics_response.js, requires-body=true, tag=外部歌词响应·JSON
+
+http-response ^https?:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/\w+\?(.*)subtype=External script-path=https://kelee.one/Resource/JavaScript/Spotify/External_Lyrics_response.js, requires-body=true, binary-body-mode=true, tag=外部歌词响应·Proto
