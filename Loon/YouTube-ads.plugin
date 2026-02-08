@@ -9,22 +9,22 @@
 #!date=2025-04-24 23:17:16
 
 [Argument]
-屏蔽上传按钮=switch,"true","false",tag=屏蔽上传按钮, desc=屏蔽上传按钮
-屏蔽选段按钮=switch,"true","false",tag=屏蔽选段按钮, desc=屏蔽选段按钮
-屏蔽Shorts按钮=switch,"false","true",tag=屏蔽Shorts按钮, desc=屏蔽Shorts按钮
-字幕翻译语言=input,off,tag=字幕翻译语言, desc=字幕翻译语言
-歌词翻译语言=input,off,tag=歌词翻译语言, desc=歌词翻译语言
-启用调试模式=switch,"false","true",tag=启用调试模式, desc=启用调试模式
+blockUpload=switch,"false","true",tag=隐藏上传按钮, desc=用于隐藏YouTube底栏的上传按钮
+blockShorts=switch,"false","true",tag=隐藏Shorts按钮, desc=用于隐藏YouTube底栏的Shorts按钮
+blockImmersive=switch,"false","true",tag=隐藏选段按钮, desc=用于隐藏YouTube Music底栏的选段按钮
+captionLang=select, "zh-Hans", "zh-Hant", "ja", "ko", "en", "off",tag=字幕翻译语言, desc=需要把YouTube字幕翻译翻译为何种语言
+lyricLang=select, "zh-Hans", "zh-Hant", "ja", "ko", "en", "off",tag=歌词翻译语言, desc=需要把YouTube Music字幕翻译翻译为何种语言
+debug=switch,"false","true",tag=启用调试模式, desc=此插件的调试模式
 
 [Rule]
-AND,((DOMAIN-SUFFIX,googlevideo.com),(PROTOCOL,UDP)),REJECT
-AND,((DOMAIN,youtubei.googleapis.com),(PROTOCOL,UDP)),REJECT
+AND,((DOMAIN-SUFFIX,googlevideo.com),(PROTOCOL,QUIC)),REJECT
+AND,((DOMAIN-SUFFIX,youtubei.googleapis.com),(PROTOCOL,QUIC)),REJECT
 
 [Rewrite]
-^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad mock-response-body data-type=text status-code=200
+^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad - reject-200
 
 [Script]
-http-response ^https:\/\/youtubei\.googleapis\.com\/(youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch))(\?(.*))?$ script-path=https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/youtube.response.js, requires-body=true, binary-body-mode=true, tag=youtube.response, argument="{"lyricLang":"{歌词翻译语言}","captionLang":"{字幕翻译语言}","blockUpload":{屏蔽上传按钮},"blockImmersive":{屏蔽选段按钮},"blockShorts":{屏蔽Shorts按钮},"debug":{启用调试模式}}"
+http-response ^https:\/\/youtubei\.googleapis\.com\/(youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch))(\?(.*))?$ script-path=https://kelee.one/Resource/JavaScript/YouTube/YouTube_remove_ads/YouTube_remove_ads_response.js, requires-body=true, binary-body-mode=true, tag=YouTube去广告, argument="[{blockUpload},{blockShorts},{blockImmersive},{captionLang},{lyricLang},{debug}]"
 
 [MITM]
 hostname = *.googlevideo.com, youtubei.googleapis.com
